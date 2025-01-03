@@ -1,0 +1,40 @@
+{
+  "id": "disc-coveries",
+  "title": "Disc-coveries",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "discworld",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "CalinStar",
+      "url": "https://github.com/tokeidlom/",
+      "discord": "CalinStar",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/tokeidlom/disc-coveries",
+  "packs": [
+    {
+      "name": "disc-coveries",
+      "label": "Disc-coveries",
+      "path": "packs/disc-coveries",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "discworld"
+    }
+  ]
+}
