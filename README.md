@@ -1,4 +1,4 @@
-# disc-coveries
+# Disc-coveries
 ## Fan made adventures for "Discworld: Adventures in Anhk-Morpork" for FoundryVTT
 
 Please find within fan created adventures for the Modiphius' "Discworld: Adventures in Ankh-Morpork" system. They are shared with the authors permission in all cases. This module is for use with the FoundryVTT Discworld system located here https://github.com/tokeidlom/discworld or here https://foundryvtt.com/packages/discworld
