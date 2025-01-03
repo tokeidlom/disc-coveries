@@ -1,5 +1,5 @@
 # disc-coveries
-##Fan made adventures for "Discworld: Adventures in Anhk-Morpork" for FoundryVTT
+## Fan made adventures for "Discworld: Adventures in Anhk-Morpork" for FoundryVTT
 
 Please find within fan created adventures for the Modiphius' "Discworld: Adventures in Ankh-Morpork" system. They are shared with the authors permission in all cases. This module is for use with the FoundryVTT Discworld system located here https://github.com/tokeidlom/discworld or here https://foundryvtt.com/packages/discworld
 
@@ -17,7 +17,6 @@ You will then find the adventures added as a new compendia:
 Opening the compendia will open a list of the adventures, click on the adventure to view its details, and then onto "Import Adventure".
 This will add to your instance, all contained scenes, characters, NPCs, traits, and Journal entries required for the adventure.
 
-#List of Included Adventures 
-##Doon the Cludgie
-Link to the wiki for Doon the Cludgie:
+For adventure details, please see the wiki:
 
+https://github.com/tokeidlom/disc-coveries/wiki
