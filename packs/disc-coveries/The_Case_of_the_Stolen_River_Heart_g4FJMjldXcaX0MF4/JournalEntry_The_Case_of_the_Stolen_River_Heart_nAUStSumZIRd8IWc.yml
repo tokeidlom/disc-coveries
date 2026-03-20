@@ -1,0 +1,1466 @@
+name: The Case of the Stolen River Heart
+_id: nAUStSumZIRd8IWc
+pages:
+  - sort: 100000
+    name: Overview
+    type: text
+    _id: 2eT0ellVCfQlbPka
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3><strong>The Hook:</strong></h3><p>The <strong>Heart of the
+        Ankh</strong> (an artefact tied to the mysterious ebb and flow of the
+        river) has gone missing from the <strong>Temple of the Ankh</strong>.
+        With guild rivalries already teetering on the edge of war, <strong>Lord
+        Vetinari</strong> quietly assembles a group of "independent specialists"
+        to handle the matter discreetly... by which he means without paperwork
+        and plausible deniability.</p><hr
+        /><h3><strong>Factions</strong></h3><ol><li><p><strong>The Thieves'
+        Guild</strong><br />Legal crime at its finest. Senior guild members
+        insists their people had nothing to do with the theft—<em>because no
+        crime is allowed without proper
+        authorisation.</em></p></li><li><p><strong>The Assassins'
+        Guild</strong><br />The black clad professionals deny involvement in any
+        recent "unfortunate accidents" near the temple, but rumours abound of
+        rogue elements seeking a bit of independent
+        business.</p></li><li><p><strong>The Alchemists' Guild</strong><br
+        />Their labs are constantly "misfiring," and they’re under suspicion for
+        magical contraband. Exploding experiments are a normal
+        Tuesday.</p></li><li><p><strong>The Ankh-Morpork City Watch</strong><br
+        />Led by <strong>Commander Sam Vimes</strong>, the Watch is already
+        stretched thin by guild tensions. <strong>Captain Carrot</strong>
+        personally meets the group, hoping that their unique talents might
+        offer… unconventional solutions.</p></li><li><p><strong>The Beggars'
+        Guild</strong><br />The Beggars' Guild, has its ear to the ground and
+        knows where <em>everything</em> is happening. For a fee, or a large pie,
+        they might part with information.</p></li><li><p><strong>The Temple of
+        Small Gods</strong><br />The priests, are convinced that divine wrath is
+        imminent. One priest is quietly trying to convince everyone that the
+        River Ankh isn’t technically alive enough to have a wrathful
+        opinion.</p></li></ol><hr /><h3><strong>Party
+        Composition:</strong></h3><ol><li><strong>Sylas Vexmoor
+        (Rogue/Thief):</strong> A Thieves' Guild dropout who's dodging a
+        "disciplinary payment plan."</li><li><strong>Ilyana Duskwright
+        (Engineer):</strong> A disgraced inventor from the Alchemists’ Guild
+        whose projects have <em>only</em> caused minor
+        explosions.</li><li><strong>Garrik Flintbeard (Mercenary):</strong> A
+        retired Klatchian mercenary who just wanted some peace and quiet. Bad
+        luck, that.</li><li><strong>Thalia Quickstride (Bard):</strong> A former
+        performer at the Mended Drum who learned not to sing anything that
+        sounds remotely like a drinking anthem.</li><li><strong>Brother Aldwin
+        Greenshade (Diplomat):</strong> A stubborn yet diplomatic clerk from the
+        Guild of Lawyers who insists on negotiating everything, even bar
+        fights.</li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 200000
+    name: 'Scene 1: The Patrician’s Office'
+    type: text
+    _id: GEoOTJwdN9P97EaX
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Introduce the stakes and factions
+        at play. Vetinari "invites" the party to discreetly handle the theft of
+        the Heart of the Ankh to prevent guild conflict and maintain the city’s
+        delicate balance of power.</p><hr
+        /><h4><strong>Location:</strong></h4><p>The Patrician’s Palace – a
+        towering, gothic structure that seems to watch you from every angle.
+        Inside, the walls are tall and narrow, casting long shadows that make
+        everything feel colder and more austere. The office itself is
+        meticulously organised: an imposing mahogany desk, towering shelves of
+        documents, and a single narrow window letting in cold light. It feels
+        like a place where decisions are made without a shred of
+        sentiment.</p><hr /><h4><strong>Key
+        NPCs:</strong></h4><ol><li><strong>Lord Havelock Vetinari</strong> – The
+        calm, enigmatic Patrician of Ankh-Morpork. His words are carefully
+        chosen, implying threats, promises, and opportunities all at
+        once.</li><li><strong>Drumknott</strong> – Vetinari’s loyal and eerily
+        efficient secretary. Silent and unobtrusive, Drumknott appears and
+        disappears without a sound, unnerving even seasoned
+        criminals.</li></ol><p><strong>Optional
+        Addition:</strong></p><ul><li><strong>Captain Carrot
+        Ironfoundersson</strong> – Carrot could be present to provide what
+        little information the Watch has gathered (which is minimal). His
+        sincere optimism offers an amusing contrast to Vetinari's veiled
+        menace.</li></ul><hr /><h4><strong>Description:</strong></h4><p>The
+        players are escorted through the labyrinthine corridors of the palace by
+        silent guards. Upon entering the office, they see Vetinari seated behind
+        his desk, his fingers steepled as he observes them in unsettling
+        silence. The only sound is the occasional shuffle of papers from
+        Drumknott, who appears and disappears as if by magic. Every moment feels
+        carefully controlled, like a chess game with unseen pieces.</p><p>When
+        Vetinari speaks, his voice is calm but layered with subtle menace. He
+        explains the theft of the <strong>Heart of the Ankh</strong>, an
+        artefact tied to the city's river and certain religious orders. The
+        theft threatens to spark guild rivalries and destabilise the city if not
+        handled quietly.</p><hr /><h4><strong>Elements to
+        Emphasise:</strong></h4><ul><li><strong>Vetinari’s Control:</strong> He
+        speaks in riddles and double meanings, forcing the players to interpret
+        his intentions.</li><li><strong>Drumknott's Efficiency:</strong> He
+        moves silently, often startling players by appearing behind them with a
+        perfectly timed cough or observation.</li><li><strong>Hints of
+        Politics:</strong> Vetinari drops subtle references to factional
+        tensions, hinting that guilds may already be vying for control of the
+        situation.</li></ul><hr /><h4><strong>Something to
+        Investigate/Find:</strong></h4><p>The players may notice subtle clues if
+        they look closely or succeed on investigation
+        checks:</p><ol><li><strong>A Ledger:</strong> A list of recent contracts
+        and permits involving the Temple of Small Gods and the Alchemists'
+        Guild.</li><li><strong>A Sealed Letter:</strong> Drumknott files away a
+        letter marked with an alchemical insignia, suggesting guild
+        involvement.</li><li><strong>A Watch Report:</strong> A summary on
+        Vetinari’s desk hints at illegal smuggling in the Drowned
+        Quarter.</li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p>Vetinari (to the whole party):<br
+        /><em>“You will, of course, handle this quietly. I trust that each of
+        you values both life and… the absence of severe
+        inconvenience?”</em></p></li><li><p>Vetinari (specific to a
+        character):</p><ul><li>To <strong>Sylas (Thief):</strong> <em>“I trust
+        your current associates in the Thieves' Guild would prefer you remained…
+        unincarcerated.”</em></li><li>To <strong>Ilyana (Engineer):</strong>
+        <em>“Your workshop operates under certain… exemptions. A pity if those
+        arrangements expired.”</em></li></ul></li><li><p>Drumknott
+        (interrupting):<br /><em>“By mishaps, my lord means 'collateral
+        disasters'—er, apologies, too direct.”</em></p></li><li><p>Vetinari
+        (final warning):<br /><em>“You’re, of course, free to decline. However,
+        please keep in mind that anyone declining my offers often becomes very…
+        freelance in this city.”</em></p></li></ul><hr /><h4><strong>How the
+        Scene Ends:</strong></h4><p>Vetinari offers a potential
+        lead:</p><ul><li>The <strong>Temple of Small Gods</strong> (<em>“an
+        institution of… shifting reliability”</em>).</li></ul><p>The party is
+        dismissed with a reminder that their actions will be watched—and
+        judged.</p><hr /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Severe
+        Misunderstanding:</strong><br />The players offend Vetinari by being too
+        pushy or dismissive. Vetinari gives them misleading information to
+        punish their lack of discretion, leading to a dead-end
+        investigation.</p></li><li><p><strong>Increased Tensions:</strong><br
+        />Vetinari leaks word of the party’s involvement to rival guilds,
+        causing immediate suspicion. The players might be shadowed by spies or
+        ambushed by guild agents in future
+        scenes.</p></li><li><p><strong>Humorous Consequence:</strong><br
+        />Drumknott quietly files an "Official Notice of Insubordination."
+        Though bureaucratic nonsense, the players may face minor but irritating
+        repercussions, such as being fined for "unauthorised
+        sleuthing."</p></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 300000
+    name: 'Scene 2: The Temple of Small Gods'
+    type: text
+    _id: qxaIclrKmos54DPl
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Gather information about the
+        theft while encountering the absurdity of Ankh-Morpork's religious
+        diversity. Introduce conflicting accounts and suspicions while hinting
+        at greater political intrigues.</p><hr
+        /><h4><strong>Location:</strong></h4><p>The <strong>Temple of Small
+        Gods</strong> – a vast, crumbling temple complex filled with shrines to
+        countless deities, ranging from major gods to hilariously minor ones
+        like the <strong>God of Unexpected Loud Noises</strong>. Elaborate
+        channels of sacred water flow between the altars, though parts of the
+        system appear suspiciously dry. Statues and religious relics are crammed
+        into every corner, creating a chaotic atmosphere of reverence and
+        bureaucracy.</p><hr /><h4><strong>Key
+        NPCs:</strong></h4><ol><li><strong>Brother Frank </strong>– A weary but
+        determined priest struggling to maintain order among competing religious
+        sects. He’s practical but constantly exasperated by the temple’s
+        internal politics.</li><li><strong>High Priest Noodin
+        (optional)</strong> – An eccentric priest who insists the theft is a
+        sign of divine retribution. He frequently misattributes phenomena to
+        minor gods with bizarre portfolios.</li><li><strong>Mrs. Cake (Side
+        Encounter)</strong> – A psychic medium who claims to have "foreseen" the
+        players' visit. She offers cryptic prophecies and unsettlingly accurate
+        warnings.</li></ol><hr /><h4><strong>Description:</strong></h4><p>As the
+        players enter, they see priests and acolytes in heated debates. Some
+        argue that the theft was divine punishment for recent lapses in worship
+        (specifically for gods no one remembers anymore), while others blame it
+        on city politics. Sacred water channels occasionally bubble or reverse
+        direction, causing further panic. Several priests claim to have seen
+        ghostly figures near the canals, though their descriptions vary
+        wildly.</p><hr /><h4><strong>Side
+        Elements:</strong></h4><ul><li><strong>Ritual Mix-ups:</strong> An
+        acolyte mistakenly combines a ritual of purification with a recipe for
+        ceremonial bread, accidentally summoning the <strong>Loaf God</strong>
+        (<em>“Blessed be thy crust!”</em>).</li><li><p><strong>Contradictory
+        Theories:</strong></p><ul><li>High Priest Noodin insists: <em>“The River
+        God’s wrath is like… damp chaos! It’s poetic if you think about
+        it.”</em></li><li>Another priest argues it was the <strong>Divine
+        Duck</strong>, who "delights in water
+        mischief."</li></ul></li><li><strong>Missing Manual:</strong> A
+        flustered junior priest tells the party that the <strong>Manual of
+        Prophecies</strong> has been misplaced. Without it, no one knows which
+        prophecy might be relevant.</li></ul><hr /><h4><strong>Investigation
+        Opportunities:</strong></h4><p>Players can investigate clues in and
+        around the temple, using perception, investigation, or charm to piece
+        together the truth.</p><ol><li><p><strong>Disrupted Water
+        Channels:</strong></p><ul><li>Rolls reveal evidence of tampering with
+        the temple’s sacred water system, possibly to obscure the theft’s
+        timing.</li><li>Players may find strange alchemical residue near the
+        disrupted sections.</li></ul></li><li><p><strong>Ghostly Figure
+        Reports:</strong></p><ul><li>Several priests describe seeing ghostly
+        figures in the canals. Further questioning reveals they were probably
+        smugglers using enchanted disguises.</li><li>Mrs. Cake cryptically
+        warns: <em>“Those ghosts were more alive than you think, but you won’t
+        find them in the light of
+        day.”</em></li></ul></li><li><p><strong>Suspicious
+        Visitors:</strong></p><ul><li>Players hear that someone wearing an
+        alchemist’s guild badge was seen visiting the temple shortly before the
+        theft. This lead points them to the Alchemists'
+        Guild.</li></ul></li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p>Brother Frank (exasperated):<br
+        /><em>“We have a... minor issue. The river occasionally reverses flow
+        now. Nothing too worrying. Except when it starts
+        laughing.”</em></p></li><li><p>High Priest Noodin (nervously):<br
+        /><em>“You wouldn’t happen to know if any… entities have taken an
+        interest in the river recently, would you?”</em></p></li><li><p>Mrs.
+        Cake (side encounter):<br /><em>“A near-death experience is on the
+        horizon. But you’ll be fine, unless you’re too slow. No refunds for
+        delays!”</em></p></li></ul><hr /><h4><strong>How the Scene
+        Ends:</strong></h4><p>The party learns that both the Alchemists' and
+        Thieves' Guilds have suspicious ties to the event. Evidence of tampered
+        water channels and ghostly figures points toward smuggling operations in
+        the Drowned Quarter. Mrs. Cake may also give them a prophetic clue
+        (<em>“Mind the third dock on the left. It’s… moody.”</em>).</p><p>The
+        players can now choose whether to investigate the <strong>Alchemists’
+        Guild</strong> or follow up on rumours of smuggling.</p><hr
+        /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Divine Confusion:</strong><br
+        />The players bungle their questioning, leading to further internal
+        chaos among the priests. Rival sects declare conflicting prophecies,
+        causing a minor religious riot.</p><ul><li>Future interactions with the
+        temple may be met with suspicion or outright
+        hostility.</li></ul></li><li><p><strong>Misleading
+        Information:</strong><br />The players fail to identify the true leads
+        and receive false information about a non-existent divine curse. They
+        may waste time investigating unrelated supernatural
+        phenomena.</p></li><li><p><strong>Humorous
+        Consequence:</strong></p><ul><li>The <strong>Loaf God</strong> incident
+        escalates, with priests chasing after enchanted bread rolls that disrupt
+        the investigation.</li><li>A priest mistakes one of the players for a
+        reincarnation of a forgotten deity and starts an embarrassing public
+        worship ritual.</li></ul></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 400000
+    name: 'Scene 3: The Alchemists’ Guild'
+    type: text
+    _id: dAmnPdXlD8FhQRaX
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Discover more about the Heart of
+        the Ankh's potential uses, learn about rogue elements within the guild,
+        and gather leads on smuggling operations tied to the artefact's
+        movement.</p><hr /><h4><strong>Location:</strong></h4><p>The
+        <strong>Alchemists’ Guild District</strong> – A chaotic area filled with
+        half-destroyed buildings that look like they've been rebuilt multiple
+        times (poorly). Smoke rises from several chimneys, occasionally
+        accompanied by random bursts of fire or flying debris. The guild’s
+        headquarters itself is a patchwork of different architectural styles,
+        reflecting various failed experiments in structural integrity.</p><hr
+        /><h4><strong>Key NPCs:</strong></h4><ol><li><strong>Trixie
+        Steelforge</strong> – A highly competent alchemist, head of safety
+        compliance. She’s calm under pressure but frequently exasperated by her
+        colleagues’ reckless behaviour.</li><li><strong>Master Helix
+        Fumble</strong> (optional) – The rogue alchemist secretly responsible
+        for stealing the artefact. He might be hiding in the guild or have left
+        behind cryptic clues regarding his
+        intentions.</li><li><strong>Alchemical Apprentices</strong> – Panicked,
+        soot-covered apprentices trying (and failing) to control various runaway
+        experiments.</li></ol><hr /><h4><strong>Description:</strong></h4><p>The
+        players arrive to find the district in typical disarray. Apprentices are
+        running in all directions, some on fire (but only <em>mildly</em>). A
+        recent explosion has destabilised parts of the guild building, and
+        several alchemists are arguing over whose experiment caused the
+        incident. Sparks of magical energy float in the air, causing random side
+        effects like glowing eyes or uncontrollable hiccups. Despite the chaos,
+        Trixie Steelforge greets the party with surprising calmness.</p><hr
+        /><h4><strong>Side
+        Elements:</strong></h4><ul><li><p><strong>Uncontrolled
+        Experiments:</strong></p><ul><li>One alchemist’s failed potion causes
+        nearby objects (including people) to float in place.</li><li>A failed
+        "stabilising powder" temporarily turns the players’ hair bright
+        green.</li><li>An apprentice offers samples of <em>“exploding
+        cheese,”</em> insisting it’s a breakthrough culinary
+        invention.</li></ul></li><li><p><strong>Alchemical
+        Overconfidence:</strong></p><ul><li>Trixie (deadpan): <em>“Oh yes,
+        perfectly safe! Well, as long as you avoid the, um… side
+        effects.”</em></li><li>Another alchemist yells from a collapsing
+        balcony: <em>“This is perfectly normal! The fire’s only mildly
+        magical!”</em></li></ul></li></ul><hr /><h4><strong>Investigation
+        Opportunities:</strong></h4><p>The players can search for clues,
+        question alchemists, or examine guild records to uncover more about the
+        Heart of the Ankh.</p><ol><li><p><strong>Clues Left by Helix
+        Fumble:</strong></p><ul><li>Hidden notes in the lab suggest that Master
+        Fumble planned to use the Heart as a stabilising element for volatile
+        alchemical reactions.</li><li>A perception check reveals traces of the
+        same alchemical residue found at the Temple of Small Gods, linking the
+        incidents.</li></ul></li><li><p><strong>Guild
+        Rivalries:</strong></p><ul><li>Players overhear alchemists blaming rival
+        guilds, particularly the Thieves’ Guild, for sabotaging their
+        experiments.</li><li>An alchemist mentions that rogue elements within
+        the guild may have hired smugglers to transport "volatile materials" to
+        the Drowned Quarter.</li></ul></li><li><p><strong>Evidence of
+        Smuggling:</strong></p><ul><li>Players find transport records indicating
+        a shipment of "classified reagents" recently sent to a hidden warehouse
+        near the canals.</li><li>A successful charisma or investigation check
+        reveals that one apprentice overheard a meeting between Master Fumble
+        and a smuggler.</li></ul></li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p><strong>Trixie Steelforge:</strong><br
+        /><em>“Ah, yes, more unwilling participants. You’ll fit right
+        in.”</em></p></li><li><p><strong>Panicked Apprentice:</strong><br
+        /><em>“Look, it's only technically exploding! It's still a
+        success!”</em></p></li><li><p><strong>Alchemist:</strong><br /><em>“You
+        wouldn’t happen to be immune to, uh, instant combustion, would you? No
+        reason—just curious.”</em></p></li></ul><hr /><h4><strong>How the Scene
+        Ends:</strong></h4><p>The players uncover leads pointing to smuggling
+        operations in the <strong>Drowned Quarter</strong>. They may also
+        receive information suggesting the involvement of rogue guild members or
+        hints that rival guilds (such as the Thieves' Guild) have their own
+        interest in the artefact. The players can now choose whether to pursue
+        the smugglers or confront the Thieves' Guild for more answers.</p><hr
+        /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Experiment Gone
+        Wrong:</strong></p><ul><li>The players accidentally trigger a runaway
+        experiment, causing significant property damage. They are blamed for the
+        incident and fined by the guild. Future interactions with the guild may
+        become hostile or bureaucratic
+        nightmares.</li></ul></li><li><p><strong>False
+        Leads:</strong></p><ul><li>The players are misled into thinking another
+        faction is responsible, wasting time and resources investigating
+        irrelevant clues.</li></ul></li><li><p><strong>Humorous
+        Consequences:</strong></p><ul><li>One player develops a random magical
+        effect (e.g., glowing skin, uncontrollable hiccups, or floating 6 inches
+        off the ground).</li><li>An apprentice follows the party, begging them
+        to help test his latest <em>“perfectly safe”</em>
+        invention.</li></ul></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: 1754664863086
+      lastModifiedBy: lWznGPhWzCQDw01w
+      exportSource: null
+    category: null
+  - sort: 500000
+    name: 'Scene 5: Guild District Headquarters'
+    type: text
+    _id: pvl5QrUCpLMC3cEZ
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Handle escalating tensions
+        between the guilds and extract valuable information about the artefact
+        while navigating Ankh-Morpork's infamously complex bureaucracy. The
+        players may need to play factions against each other or mediate between
+        opposing interests to avoid a full-scale conflict.</p><hr
+        /><h4><strong>Location:</strong></h4><p>The <strong>Guild District
+        Headquarters</strong> – A district dominated by towering, unnecessarily
+        elaborate buildings designed to impress and confuse outsiders. Guild
+        banners flutter from balconies, and cloaked figures scurry between
+        headquarters, whispering and plotting. Guards and assistants from
+        various factions watch the party warily as if expecting sabotage at any
+        moment.</p><p>Inside the central chamber, guild representatives gather
+        around a large circular table, arguing over jurisdictional disputes.
+        Some guilds send elaborately robed representatives; others dispatch
+        sharp-eyed lawyers who carry stacks of permits and ledgers.</p><hr
+        /><h4><strong>Key NPCs:</strong></h4><ol><li><strong>Nimble Jack
+        Strapsnatch</strong> – The Thieves’ Guild representative, a smug and
+        well-dressed negotiator who prides himself on his guild’s "legitimate
+        business operations."</li><li><strong>Mr. Slant</strong> – The undead
+        lawyer for multiple guilds, who obsessively quotes legal codes and
+        offers ambiguous advice. He is methodical and nearly impossible to
+        rattle.</li><li><strong>Guild Scribe Marlin Thistle (optional)</strong>
+        – A weary bureaucrat who manages guild documentation. He’s drowning in
+        paperwork and takes sadistic pleasure in watching newcomers struggle
+        with guild procedures.</li></ol><hr
+        /><h4><strong>Description:</strong></h4><p>The guild district feels like
+        the beating heart of Ankh-Morpork’s political machinery, but that heart
+        is clogged with red tape. Representatives loudly debate trade routes,
+        taxes, and <em>"unauthorised artefact appropriation"</em>—a term no one
+        can agree on. Lawyers and scribes hurry back and forth, delivering
+        endless forms to be stamped, signed, and counter-signed.</p><p>As
+        tensions rise, the players must carefully navigate the conversation to
+        avoid escalating hostilities. One wrong word could cause an argument
+        between factions to spiral into violence.</p><hr /><h4><strong>Side
+        Elements:</strong></h4><ul><li><p><strong>Absurd Legal
+        Procedures:</strong></p><ul><li>A scribe hands over a <strong>34-page
+        permit form</strong>, stating: <em>“Sign here, here, and—oh, yes—on the
+        wall too, in triplicate.”</em></li><li>Mr. Slant lectures the players on
+        obscure legal codes, including <em>“Clause 87-B: Improper Artefact
+        Requisition during Sacred
+        Events.”</em></li></ul></li><li><p><strong>Guild
+        Rivalries:</strong></p><ul><li>A representative from the <strong>Guild
+        of Bakers</strong> accuses the Thieves of stealing "proprietary loaf
+        designs."</li><li>Guildmasters compete to outdo each other with
+        increasingly ridiculous formal
+        titles.</li></ul></li><li><p><strong>Miscommunication:</strong></p><ul><li>A
+        Thieves' Guild official mutters: <em>“We’re not crooks! We’re
+        professionals. There’s a difference. It’s…
+        paperwork.”</em></li></ul></li></ul><hr /><h4><strong>Investigation
+        Opportunities:</strong></h4><p>The players can use charm, intimidation,
+        or subterfuge to extract key information. However, they must tread
+        carefully to avoid offending the wrong
+        faction.</p><ol><li><p><strong>Guild
+        Interrogations:</strong></p><ul><li>Speaking to <strong>Jack</strong>
+        may reveal that rogue elements within the guild are acting
+        independently, possibly collaborating with smugglers. He may offer
+        assistance in exchange for a favour, such as sabotaging a rival guild’s
+        reputation.</li></ul></li><li><p><strong>Legal
+        Documents:</strong></p><ul><li>A successful investigation check reveals
+        transport permits linked to smuggling operations in the Drowned Quarter.
+        Players may notice irregularities pointing to <strong>Master Helix
+        Fumble</strong>.</li></ul></li><li><p><strong>Eavesdropping:</strong></p><ul><li>Players
+        overhear a heated argument between the Assassins’ and Alchemists’
+        Guilds. Both accuse each other of having secret dealings with the
+        smugglers.</li></ul></li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p><strong>Scribe Marlin
+        Thistle:</strong><br /><em>“Just sign here, here… oh, and you’ll need
+        three witnesses for this section. Good luck finding
+        them.”</em></p></li><li><p><strong>Nimble Jack Strapsnatch:</strong><br
+        /><em>“We run a legitimate business here. What’s more respectable than
+        professional theft?”</em></p></li><li><p><strong>Mr. Slant:</strong><br
+        /><em>“According to subsection 14-D, unauthorised artefact handling
+        incurs a fee of... ah, quite a substantial
+        amount.”</em></p></li></ul><hr /><h4><strong>How the Scene
+        Ends:</strong></h4><p>As tensions escalate, arguments between guild
+        representatives become increasingly aggressive. The situation
+        deteriorates into a full-scale riot unless the players intervene.
+        Depending on their actions, the party can:</p><ul><li><strong>Calm the
+        Crowd:</strong> Successfully defusing the situation earns them goodwill
+        and further leads.</li><li><strong>Flee the Scene:</strong> If they
+        fail, they must escape as the riot spills out into the streets, leading
+        directly into <strong>Scene 6: The Street
+        Riot</strong>.</li></ul><p>Additionally, the players may attract the
+        attention of <strong>spies</strong> or <strong>rival factions</strong>,
+        complicating future encounters.</p><hr /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Guild
+        Riots:</strong></p><ul><li>A full-scale riot erupts, forcing the players
+        to fight or flee. Guild relations worsen, and the players’ reputation in
+        the district is damaged.</li></ul></li><li><p><strong>Bureaucratic
+        Sabotage:</strong></p><ul><li>The players are buried under mountains of
+        paperwork, delaying their investigation. Guild representatives may stall
+        or provide false information in
+        retaliation.</li></ul></li><li><p><strong>Humorous
+        Consequence:</strong></p><ul><li>A faction mistakenly believes one of
+        the players has been "promoted" to a ceremonial guild role (e.g.,
+        <strong>"Honorary Guild Auditor"</strong>), saddling them with absurd
+        duties.</li></ul></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 450000
+    name: 'Scene 4: The Drowned Quarter'
+    type: text
+    _id: Y7bxKYqeD6JiN8xu
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Confirm that the artefact is
+        being hidden or moved and deal with local smugglers. Introduce factional
+        tensions involving the Thieves' and Assassins' Guilds, as well as rogue
+        alchemists.</p><hr /><h4><strong>Location:</strong></h4><p>The
+        <strong>Drowned Quarter</strong> – A decaying, semi-flooded district
+        near the Ankh. Dilapidated warehouses and rotting wooden docks line the
+        mist-filled canals. Lanterns hang from rusted chains, their flickering
+        light casting long, ominous shadows across the water. The quarter is a
+        lawless, dangerous place where whispers of supernatural events mix with
+        underworld gossip.</p><hr /><h4><strong>Key
+        NPCs:</strong></h4><ol><li><strong>Malik Scarn</strong> – A seasoned and
+        pragmatic smuggler leader. He’s well-connected but cautious, always
+        feigning ignorance when cornered. He will cooperate—if the price is
+        right.</li><li><strong>Old Jeb "River Tale" Mulligan</strong> – An
+        eccentric old sailor with a reputation for spinning wild stories.
+        Despite his ramblings, he often knows more than he lets
+        on.</li><li><strong>Assassins' Guild Agent (Optional)</strong> – A
+        shadowy figure who may be observing the smugglers. They’re gathering
+        intelligence on the artefact for their own guild's
+        interests.</li></ol><hr /><h4><strong>Description:</strong></h4><p>As
+        the players enter the Drowned Quarter, the atmosphere shifts. The sound
+        of water lapping against the docks echoes eerily through the fog.
+        Cloaked figures move silently through the mist, and every creak of wood
+        feels amplified. Smugglers glance warily at newcomers, and the tension
+        is palpable. Nearby, a few gang members laugh at their leader Malik
+        Scarn, who is currently climbing out of the canal after an embarrassing
+        fall.</p><p>Despite his bluster, Scarn feigns complete ignorance when
+        questioned about the artefact. However, subtle tells (nervous glances,
+        slip-ups in speech) suggest he knows more than he’s letting on. The
+        players must find a way to gain his trust or force him to reveal what he
+        knows.</p><hr /><h4><strong>Side
+        Elements:</strong></h4><ul><li><p><strong>The River’s Sense of
+        Humour:</strong> A thug loudly curses the river after falling in,
+        claiming it’s cursed to "target" anyone who doesn’t pay respect to the
+        canal gods.</p></li><li><p><strong>Old Jeb’s
+        Stories:</strong></p><ul><li><em>“Aye, the river kraken took my hat.
+        Still mad about that. But here’s what I heard…”</em></li><li>His
+        directions to key locations are surprisingly accurate despite being
+        interwoven with fantastical
+        details.</li></ul></li><li><p><strong>Mistaken Fear:</strong> A gang
+        member panics upon seeing his reflection in the canal and starts
+        screaming about a "ghost." His companions roll their
+        eyes.</p></li></ul><hr /><h4><strong>Investigation
+        Opportunities:</strong></h4><p>The players can interact with various
+        characters and search the area for clues about the artefact’s
+        movements.</p><ol><li><p><strong>Interrogating Malik
+        Scarn:</strong></p><ul><li>Players can use intimidation, persuasion, or
+        bribery to get Scarn to talk. He reveals that a "special package" was
+        delivered to a warehouse on the far side of the quarter.</li><li>If
+        pushed too hard, Scarn may retaliate later by leaking the players'
+        activities to rival factions.</li></ul></li><li><p><strong>Exploring the
+        Docks:</strong></p><ul><li>Players may find a hidden passage beneath one
+        of the rotting warehouses. Inside, crates of alchemical supplies marked
+        with the symbol of the Alchemists' Guild suggest a connection to Master
+        Helix Fumble.</li></ul></li><li><p><strong>Following the
+        Smugglers:</strong></p><ul><li>The players can tail a group of smugglers
+        who are moving goods through the canals. This could lead to a
+        confrontation or an opportunity to eavesdrop on their
+        conversations.</li></ul></li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p><strong>Malik Scarn:</strong><br
+        /><em>“Look, I don’t know anything about artefacts. But if I did, I'd be
+        charging admission.”</em></p></li><li><p><strong>Old Jeb
+        Mulligan:</strong><br /><em>“The third dock’s got a temper. It don’t
+        like strangers—especially ones with fancy
+        boots.”</em></p></li><li><p><strong>Local Thug:</strong><br /><em>“Avoid
+        the shadows out here. They’ve been known to bite.”</em></p></li></ul><hr
+        /><h4><strong>How the Scene Ends:</strong></h4><p>The players uncover
+        evidence that rogue alchemists hired smugglers to transport the artefact
+        after its theft. There are also hints that both the Thieves' and
+        Assassins' Guilds have a vested interest in recovering or controlling
+        the artefact. Depending on their actions, the players may either gain
+        temporary allies or provoke further conflicts with these
+        factions.</p><hr /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Smuggler
+        Retaliation:</strong></p><ul><li>If the players are too aggressive or
+        careless, the smugglers refuse to cooperate and spread false information
+        to rival guilds. This causes the players to become targets of both
+        criminal and guild enforcers.</li></ul></li><li><p><strong>Wrong
+        Clue:</strong></p><ul><li>The players are led to investigate a decoy
+        shipment that wastes their time and resources. Meanwhile, the true
+        artefact is moved to another hidden
+        location.</li></ul></li><li><p><strong>Humorous
+        Consequence:</strong></p><ul><li>The players inadvertently trigger a
+        minor canal "curse," such as glowing footprints that make stealth
+        impossible.</li><li>Old Jeb insists the players now owe him a "hat tax"
+        for crossing his favourite canal.</li></ul></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 700000
+    name: 'Scene 6: Street Riot'
+    type: text
+    _id: sj4b0UOuLLLlMSrA
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h4><strong>Objective:</strong></h4><p>Survive or de-escalate the
+        conflict while gaining crucial information about the artefact's final
+        location. The players can attempt to mediate between guilds or exploit
+        the riot for their own benefit.</p><hr
+        /><h4><strong>Location:</strong></h4><p>A <strong>narrow street</strong>
+        in the Guild District, with makeshift barricades, overturned carts, and
+        banners from multiple guilds. Debris and smoke obscure visibility as
+        bottles, bricks, and improvised weapons fly through the air. Various
+        factions yell contradictory demands, each blaming the other for the
+        chaos. The City Watch struggles to contain the violence, with Captain
+        Carrot in the middle of the fray, trying to reason with rioters.</p><hr
+        /><h4><strong>Key NPCs:</strong></h4><ol><li><strong>Captain Carrot
+        Ironfoundersson</strong> – The ever-optimistic Watch captain who
+        genuinely believes in peace and order. Unfortunately, his idealism is
+        not particularly effective when surrounded by rioting guild
+        members.</li><li><strong>Nobby Nobbs</strong> – A less-than-reliable
+        member of the Watch who uses the chaos to scout for "opportunities." He
+        offers the party a way out but is clearly looking for personal
+        gain.</li><li><strong>Various Guild Members</strong> – Representatives
+        from the Thieves, Alchemists, and Assassins’ Guilds, each with their own
+        grievances. Some may be willing to talk if approached
+        correctly.</li></ol><hr /><h4><strong>Description:</strong></h4><p>The
+        street is a chaotic battlefield. Guild members hurl insults and
+        improvised weapons at one another while shouting contradictory slogans.
+        Overturned market stalls and makeshift barricades create narrow
+        pathways. Bystanders and opportunistic looters move through the crowd,
+        complicating any attempts at order.</p><p>Carrot is standing on a cart,
+        loudly but ineffectively trying to restore peace. Meanwhile, Nobby
+        gestures to the players from a nearby alley, suggesting that there are
+        better opportunities to be had than getting involved in <em>“all this
+        silly bashing.”</em></p><hr /><h4><strong>Side
+        Elements:</strong></h4><ul><li><p><strong>Riot
+        Arguments:</strong></p><ul><li>Two guild members pause mid-brawl to
+        argue about whose boots are shinier.</li><li>A member of the
+        <strong>Beggars' Guild</strong> loudly protests that rioters aren't
+        paying the "proper disorder tax."</li></ul></li><li><p><strong>Slapstick
+        Events:</strong></p><ul><li>A runaway cart rolls down the street, its
+        owner chasing it and screaming, <em>“Watch out for me
+        goods!”</em></li><li>A stray magical effect causes a rioter's clothes to
+        change colours every few seconds, leading to confusion as their faction
+        mistakes them for an enemy.</li></ul></li><li><p><strong>Nobby's
+        Opportunism:</strong></p><ul><li>Nobby shouts, <em>“Oi! Stop fightin’!
+        There’s better loot this way!”</em></li><li>He offers to "escort" the
+        players to safety—conveniently near a building known for storing
+        valuable guild assets.</li></ul></li></ul><hr
+        /><h4><strong>Investigation Opportunities:</strong></h4><p>Amid the
+        chaos, the players can uncover clues about the artefact’s
+        location.</p><ol><li><p><strong>Interrogating a Guild
+        Member:</strong></p><ul><li>A Thieves' Guild enforcer hints that the
+        artefact was recently moved to a <strong>vault</strong> in the district.
+        However, he refuses to give specifics unless bribed or
+        convinced.</li></ul></li><li><p><strong>Following a Rival
+        Agent:</strong></p><ul><li>Players notice a suspicious figure (possibly
+        an Assassin’s Guild operative) slipping away from the riot. If followed,
+        the agent might lead them to a hidden entrance to the vault or a
+        smuggling network.</li></ul></li><li><p><strong>Searching Abandoned
+        Stalls:</strong></p><ul><li>In the confusion, players may stumble upon
+        hastily discarded documents, including notes referencing a <strong>vault
+        beneath the district</strong>. The notes bear the seal of a rogue
+        alchemist.</li></ul></li></ol><hr /><h4><strong>Key Dialogue
+        Prompts:</strong></h4><ul><li><p><strong>Captain Carrot:</strong><br
+        /><em>“Now, now, we can all agree stabbing each other isn’t
+        necessary.”</em></p></li><li><p><strong>Nobby Nobbs:</strong><br
+        /><em>“This street’s full of easy marks—I mean, treasures! Stick with
+        me, and we’ll be right as rain.”</em></p></li><li><p><strong>Guild
+        Member:</strong><br /><em>“You think this riot’s about artefacts? Ha!
+        This is about trade routes, mate. And pride. And ale
+        shortages.”</em></p></li></ul><hr /><h4><strong>How the Scene
+        Ends:</strong></h4><p>The players secure information confirming that the
+        artefact is hidden in a <strong>vault beneath the Guild
+        District</strong>. Depending on their actions, they may also secure
+        alliances or provoke further animosity between factions. Meanwhile, the
+        riot provides cover for a rival faction to make their move on the vault,
+        forcing the players to act quickly.</p><p>If the players manage to
+        <strong>de-escalate</strong> the conflict, they earn goodwill from the
+        City Watch and certain guilds. If they <strong>flee</strong>, they will
+        have to face increased hostility from both guild enforcers and Watch
+        patrols in future scenes.</p><hr /><h4><strong>Consequences for
+        Failure:</strong></h4><ol><li><p><strong>Escalated
+        Riot:</strong></p><ul><li>The riot intensifies, spreading to other parts
+        of the district. The players become targets for both rioters and the
+        City Watch, who blame them for aggravating the
+        situation.</li></ul></li><li><p><strong>Misinformation:</strong></p><ul><li>The
+        players receive conflicting or false information, leading them to an
+        abandoned warehouse or decoy vault. This wastes time and
+        resources.</li></ul></li><li><p><strong>Humorous
+        Consequence:</strong></p><ul><li>Nobby Nobbs "accidentally" volunteers
+        the players to lead peace talks, resulting in them being cornered by
+        angry guild representatives.</li><li>A stray magical effect leaves one
+        of the players with glowing skin or a voice that echoes comically during
+        serious conversations.</li></ul></li></ol>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 800000
+    name: 'Scene 7: Vault Heist'
+    type: text
+    _id: nz6ZWvVyqWlPVfOQ
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Objective:</strong> Recover the artefact and deal with rival
+        factions.</p><h4><strong>Key NPCs:</strong></h4><ul><li><strong>Guild
+        Representatives</strong> – Thieves, Assassins, and Alchemists, each with
+        their own agendas.</li><li><strong>Rival Heist Crew</strong> – A
+        separate group attempting to claim the artefact
+        first.</li><li><strong>Lord Vetinari's Messenger</strong> – Arrives at
+        an inconvenient moment with an ominous
+        message.</li></ul><h4><strong>Location:</strong></h4><p>A hidden vault
+        deep beneath the Guild District, designed to keep out everyone—including
+        its original builders, who promptly lost the blueprints. The chamber is
+        a mix of ostentatious security measures, ancient contraptions, and
+        arcane nonsense.</p><h4><strong>Description:</strong></h4><p>The vault
+        is a massive underground chamber filled with shifting walls, glowing
+        runes, and mechanical traps that seem both needlessly complex and oddly
+        whimsical. The artefact sits atop a grand pedestal, radiating a soft,
+        pulsing glow. Around it, rival guild members eye each other warily,
+        waiting for the first fool to make a move. The chamber hums faintly, as
+        if amused by the impending chaos.</p><h4><strong>Elements &amp;
+        Atmosphere:</strong></h4><ul><li>A giant <strong>countdown
+        hourglass</strong> ticks ominously—but no one knows what it’s counting
+        down to.</li><li>An <strong>illusionary treasure hoard</strong>
+        distracts the greedier party members.</li><li>The <strong>pressure plate
+        puzzle</strong> has been partially solved—but in the <em>wrong</em> way,
+        making it even more unpredictable.</li><li>A <strong>thief tries to
+        monologue</strong> about their brilliance and immediately steps on a
+        trigger.</li></ul><h4><strong>Investigation &amp;
+        Clues:</strong></h4><ul><li>The magical traps appear to have been
+        <strong>tampered with</strong>—suggesting inside knowledge from someone
+        with vault access.</li><li>A half-burnt <strong>ledger</strong> near the
+        entrance suggests someone has been tracking artefact
+        movements.</li><li>The <strong>artefact is humming</strong> at a
+        frequency that resonates with one of the players' personal belongings
+        (indicating a connection).</li></ul><h4><strong>GM Prompts &amp; NPC
+        Dialogue:</strong></h4><ul><li><strong>Thief Leader:</strong>
+        <em>"Right, nobody move! Except me. And my crew. And—oh, blast it, just
+        stay out of our way."</em></li><li><strong>Assassin
+        Representative:</strong> <em>"This would be much simpler if we just
+        eliminated everyone here. Efficient. Elegant. No loose
+        ends."</em></li><li><strong>Alchemist:</strong> <em>"Oh, do be careful!
+        That artefact is an unprecedented fusion of thaumaturgy and chemistry.
+        The wrong touch and—"</em> <em>BOOM</em> <em>"Ah. Well, good to
+        know."</em></li><li><strong>Lord Vetinari's Messenger arrives:</strong>
+        <em>"His Lordship expected you to retrieve this with discretion. He's
+        very disappointed. Well, not very—that would imply emotional investment.
+        Mildly disappointed, perhaps."</em></li></ul><h4><strong>Challenges
+        &amp; Failures:</strong></h4><ul><li><strong>Botched Puzzle
+        Solving:</strong> The wrong pressure plate is pressed, causing an
+        overdramatic <strong>trap malfunction</strong> (e.g., raining confetti,
+        unleashing angry clockwork pigeons).</li><li><strong>Overzealous Rival
+        Crew:</strong> The rival thieves’ team tries to double-cross everyone
+        and ends up locking themselves in a secondary trap
+        room.</li><li><strong>Guilds Interfering:</strong> The Assassins’ Guild
+        declares they <em>own</em> the artefact by right of contractual
+        assassination and threatens "legal
+        consequences."</li><li><strong>Overuse of Magic:</strong> If magic is
+        recklessly applied, the vault’s <strong>arcane defenses</strong> respond
+        unpredictably—possibly turning someone’s hair into animated
+        snakes.</li></ul><h4><strong>How the Scene
+        Ends:</strong></h4><ul><li><p>The party <strong>secures the
+        artefact</strong>, but at the cost of either:</p><ul><li><strong>A rival
+        faction owing them a favour</strong> (if they handled negotiations
+        well).</li><li><strong>A rival faction swearing revenge</strong> (if
+        things went poorly).</li><li><strong>City-wide consequences</strong> (if
+        they made a public spectacle of it).</li></ul></li><li><strong>Vetinari
+        is already aware</strong> of the result, whether or not the party
+        informs him. His message makes it clear that the next step is returning
+        the artefact <em>without further complications...
+        preferably</em>.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 900000
+    name: 'Side Event 1: The Mysterious Floating Order Form'
+    type: text
+    _id: rtzQ2IoDX3vDG1dx
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Location:</strong> Anywhere in the Guild
+        District</p><p><strong>Trigger:</strong> The players find a paper form
+        fluttering in the wind. Strangely, it seems drawn to
+        them.</p><h4><strong>Description:</strong></h4><p>The form is a
+        <strong>Permit Request for Intrusion</strong>, apparently "issued" to
+        the adventurers without their knowledge. Bureaucratic in design, it
+        includes bizarre terms such as <em>“Interim permission to trespass in
+        sensitive areas for officially unofficial reasons.”</em> No one knows
+        where it came from, but several guild officials eye it nervously, as if
+        the form itself has power.</p><h4><strong>Potential
+        Outcomes:</strong></h4><ul><li><strong>Filling out the form</strong>
+        causes more forms to appear, demanding extra signatures, witness
+        approvals, and even tax filings.</li><li><strong>An NPC from the Bureau
+        of Forms</strong> eventually arrives, claiming the form was part of a
+        lost internal experiment in <em>spontaneous administrative
+        recursion.</em></li><li><strong>Completing the form</strong> somehow
+        grants the party <strong>temporary immunity to guild
+        infractions</strong>, though no one can explain why it
+        works.</li></ul><h4><strong>Elements:</strong></h4><ul><li>Bureaucrats
+        panic, muttering, <em>“It’s a recursive form—it never
+        ends!”</em></li><li>The form resists being destroyed, reappearing in a
+        player’s pocket moments later.</li><li>A passing clerk sighs and
+        mutters, <em>"Oh no, not another one..."</em> before sprinting
+        away.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 1000000
+    name: 'Side Event 2: Nobby''s Highly Questionable Black Market Tour'
+    type: text
+    _id: OurHPnjSJY3IDgTP
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Location:</strong> A shady alley near the Market
+        District</p><p><strong>Trigger:</strong> Nobby Nobbs offers to <em>"show
+        the players the real treasures of
+        Ankh-Morpork."</em></p><h4><strong>Description:</strong></h4><p>Nobby
+        takes the players on a <em>"tour"</em> of Ankh-Morpork’s hidden black
+        market—a chaotic collection of stalls selling obviously fake relics
+        (<em>“The actual Hat of Death!”</em>), expired potions, and questionable
+        magical artifacts like the <strong>Unpredictable Teapot of Fate</strong>
+        (which changes colour at random). The vendors range from overly
+        enthusiastic salesmen to shifty-eyed dealers who look like they might
+        disappear at a moment’s notice.</p><h4><strong>Potential
+        Outcomes:</strong></h4><ul><li>The players <strong>find a genuinely
+        useful item</strong> among the junk, such as a <strong>Guild
+        Codebook</strong> or an unassuming trinket that later proves
+        valuable.</li><li>Nobby <strong>gets into an argument with
+        vendors</strong> over a <em>"misunderstanding"</em> involving stolen
+        property.</li><li>A rival thief recognizes Nobby and demands repayment
+        for an <em>"old debt,"</em> putting the players in an awkward
+        position.</li></ul><h4><strong>Elements:</strong></h4><ul><li>A vendor
+        yells, <em>“You break it, you already bought it!”</em></li><li>The
+        <strong>Unpredictable Teapot of Fate</strong> explodes into confetti
+        when touched.</li><li>One stall sells "genuine" magical wands… which are
+        just painted sticks.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 1100000
+    name: 'Side Event 3: Mrs. Cake’s Premonition Service'
+    type: text
+    _id: xbswQMuEgqjCX514
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Location:</strong> The Temple
+        District</p><p><strong>Trigger:</strong> Mrs. Cake intercepts the
+        players as they walk through the
+        district.</p><h4><strong>Description:</strong></h4><p>Mrs. Cake claims
+        to have <em>foreseen</em> the players’ involvement in the theft
+        investigation and insists on sharing her visions—for a <em>"small but
+        mandatory fee."</em> Her premonitions are eerily accurate but phrased in
+        ways that could mean almost anything. She speaks in a way that suggests
+        she’s already heard the players’ responses before they say
+        them.</p><h4><strong>Potential Outcomes:</strong></h4><ul><li>The
+        players try to interpret a cryptic prophecy like, <em>“Beware the third
+        duck.”</em></li><li>Mrs. Cake unexpectedly provides <strong>useful
+        warnings</strong>, hinting at specific <strong>traps, betrayals, or key
+        locations</strong>.</li><li>A misunderstanding of her prophecy leads to
+        comedic paranoia—<em>“No, no, that’s only the second duck! We’re still
+        safe!”</em></li></ul><h4><strong>Elements:</strong></h4><ul><li><p>She
+        repeatedly <strong>answers questions before they’re
+        asked</strong>:</p><ul><li><em>“Yes, I know. No, you’re wrong. I don’t
+        do refunds.”</em></li></ul></li><li>Prophecy confusion leads to
+        slapstick scenarios, such as the party getting overly suspicious of
+        innocent ducks.</li><li>If the players don’t pay, she sighs and mutters,
+        <em>“Oh well, your loss. Quite literally.”</em> before walking off
+        ominously.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 1200000
+    name: 'Side Event 4: The Riot Tax Collector'
+    type: text
+    _id: 979b53PGPA6kxJak
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Location:</strong> Near a conflict zone or the street
+        riot</p><p><strong>Trigger:</strong> The players notice a strangely calm
+        bureaucrat observing the
+        chaos.</p><h4><strong>Description:</strong></h4><p>Amidst the chaos of
+        rioting guild members and panicked citizens, a lone <strong>tax
+        collector from the Guild of Civic Revenue</strong> stands completely
+        unfazed, meticulously documenting property damage. He adjusts his
+        spectacles, takes careful notes, and then turns to the players with an
+        air of quiet authority.</p><p><em>"Would you happen to know who I can
+        invoice for these damages?"</em> he asks, pen
+        poised.</p><h4><strong>Potential Outcomes:</strong></h4><ul><li>If the
+        players <strong>humour him</strong>, he provides <strong>useful
+        information</strong> about guild fines, debts, or bureaucratic loopholes
+        that may aid their investigation.</li><li>If they <strong>antagonise
+        him</strong>, he begins <strong>filing fines against them</strong>,
+        citing obscure infractions such as <em>"witnessing unauthorised civil
+        disobedience."</em></li><li>If they attempt to <strong>bribe
+        him</strong>, he sighs, produces Form 27B/6, and requests it be filed in
+        triplicate first.</li></ul><h4><strong>Humour
+        Elements:</strong></h4><ul><li><p>He produces an <strong>endless stack
+        of forms and invoices</strong>, each increasingly
+        absurd:</p><ul><li><em>"Potential Noise Pollution
+        Fee"</em></li><li><em>"Incidental Dust Redistribution
+        Tax"</em></li><li><em>"Disturbance of Mythic Balance
+        Violation"</em></li></ul></li><li>If the players refuse to engage, he
+        mutters, <em>“Ah well, default fines it is,”</em> and begins writing
+        furiously.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 1300000
+    name: 'Side Event 5: A Visit from Moist von Lipwig'
+    type: text
+    _id: 20jyRBCrWOmdkpCQ
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Location:</strong> The players’ current base of
+        operations</p><p><strong>Trigger:</strong> Moist von Lipwig arrives
+        uninvited, curious about the
+        investigation.</p><h4><strong>Description:</strong></h4><p>With his
+        usual flair, <em>Moist von Lipwig</em> saunters in as if he owns the
+        place, flashing a disarming smile. He insists he's only here to offer
+        <em>"friendly advice,"</em> though it’s clear he’s mostly snooping for
+        his own amusement—or future profit.</p><p>He casually mentions his
+        <em>connections</em>, dropping cryptic hints that he <em>might</em> be
+        able to help... for the right price, of course.</p><p><em>"Now, I’m just
+        an honest civil servant these days,"</em> he says, palming a coin from a
+        player’s pouch, <em>"but I do like to keep my hand in, just in
+        case."</em></p><h4><strong>Potential
+        Outcomes:</strong></h4><ul><li><strong>Valuable Information:</strong>
+        Moist provides <strong>insider knowledge</strong> that helps the players
+        bypass a tricky encounter—perhaps a secret entrance or a key
+        contact.</li><li><strong>Mysterious Favour:</strong> He offers his help,
+        but only <strong>in exchange for an undefined favour</strong>, which
+        he’ll call in at an inconvenient time.</li><li><strong>Mild
+        Theft:</strong> If not closely watched, Moist attempts to
+        <strong>"borrow"</strong> an artefact related to the investigation,
+        promising to return it. Eventually. Maybe.</li></ul><h4><strong>Humour
+        Elements:</strong></h4><ul><li>Moist absentmindedly <strong>performs
+        sleight-of-hand tricks</strong>, occasionally swiping <strong>harmless
+        but inconvenient</strong> items (e.g., a player’s quill, belt, or left
+        shoe).</li><li>He insists, <em>“Oh, don't worry, I’m reformed. Mostly.
+        Well, today, at least.”</em></li><li>If confronted about stealing, he
+        gasps theatrically: <em>“Stealing? Me? I’m hurt! This is
+        <strong>redistribution with flair!</strong>”</em></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 150000
+    name: 'Scene 0: The Setup'
+    type: text
+    _id: qZHskQU92Og01NBT
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3><strong>The Call to the Patrician’s Office</strong></h3><hr
+        /><h4><strong>Sylas Vexmoor
+        (Rogue/Thief)</strong></h4><p><strong>Location:</strong> Hiding out in a
+        small safehouse in the Shades district.<br /><strong>What
+        Happens:</strong><br />One moment, Sylas is enjoying a rare quiet
+        moment. The next, two unamused members of the Thieves' Guild appear in
+        his doorway.</p><ul><li><em>“The Patrician wants to speak with you. We
+        aren’t allowed to say no. So neither are
+        you.”</em></li></ul><p><strong>How He Feels:</strong><br />Suspicious.
+        He knows Vetinari only deals with people when they’re either
+        <em>dangerous</em> or <em>useful</em>. Being both is not
+        comforting.</p><hr /><h4><strong>Ilyana Duskwright
+        (Engineer/Inventor)</strong></h4><p><strong>Location:</strong> Her
+        cluttered workshop, somewhere near the Alchemists’ Guild.<br
+        /><strong>What Happens:</strong><br />A city clerk arrives at her
+        workshop, holding a formal summons from the Patrician’s office. Ilyana’s
+        first reaction is to assume the Guild of Infrastructure finally wants to
+        charge her for "unregulated experiments."</p><ul><li>Clerk: <em>“Miss
+        Duskwright, you’ve been cordially invited to meet the
+        Patrician.”</em></li><li>Ilyana: <em>“Invited?”</em></li><li>Clerk
+        (sighing): <em>“An invitation comes with… limited refusal
+        options.”</em></li></ul><p><strong>How She Feels:</strong><br />Annoyed.
+        This feels suspiciously like being drafted into something
+        political.</p><hr /><h4><strong>Garrik 'Grinder' Flintbeard (Dwarven
+        Mercenary)</strong></h4><p><strong>Location:</strong> The Broken Barrel
+        Tavern, having a peaceful pint after dealing with guild squabbles all
+        day.<br /><strong>What Happens:</strong><br />Two City Watch officers,
+        including Sergeant Detritus, arrive to escort Garrik to the
+        palace.</p><ul><li>Detritus: <em>“Commander Vimes sez yous might be
+        'elpful.”</em></li><li>Garrik: <em>“'Helpful'? Sounds like
+        trouble.”</em></li><li>Detritus: <em>“Well, duh. It’s
+        Ankh-Morpork.”</em></li></ul><p><strong>How He Feels:</strong><br
+        />Irritated. He came here to <em>avoid</em> official business, not to
+        get dragged into politics.</p><hr /><h4><strong>Thalia Quickstride
+        (Bard/Spy)</strong></h4><p><strong>Location:</strong> Performing in a
+        small tavern near the Mended Drum.<br /><strong>What
+        Happens:</strong><br />A courier from the Beggars’ Guild interrupts her
+        performance with an urgent note from the
+        guildmaster.</p><ul><li>Courier: <em>“Apparently, Lady Beggar said
+        you’ve got an appointment with… him.”</em></li><li>Thalia: <em>“You mean
+        Vetinari?”</em></li><li>Courier (shivering): <em>“Don’t say it out loud,
+        you want him appearing outta nowhere?”</em></li></ul><p><strong>How She
+        Feels:</strong><br />Curious but cautious. Vetinari rarely takes notice
+        of performers unless it’s <em>strategic</em>.</p><hr
+        /><h4><strong>Brother Aldwin Greenshade
+        (Mediator/Strategist)</strong></h4><p><strong>Location:</strong> In the
+        middle of mediating a petty dispute between two merchants over <em>who
+        owns the rights to a corner fruit stand</em>.<br /><strong>What
+        Happens:</strong><br />An elegantly dressed messenger arrives
+        mid-argument, bowing politely.</p><ul><li>Messenger: <em>“Brother
+        Aldwin, Lord Vetinari requests your presence.
+        Immediately.”</em></li><li>Aldwin: <em>“Can this wait? I'm in the middle
+        of a dispute.”</em></li><li>Messenger: <em>“Oh, I’m sure his lordship
+        would be fascinated by your reasoning for prioritising a fruit stand
+        over city-wide stability.”</em></li></ul><p><strong>How He
+        Feels:</strong><br />Resigned. He understands Vetinari’s interest means
+        something serious—and probably deeply inconvenient.</p><hr
+        /><h3><strong>Arrival at the Patrician’s Palace</strong></h3><p>By
+        various means (whether escorted or escorted under polite duress), the
+        group converges in the Patrician’s office at the same time. They’re
+        greeted by <strong>Drumknott</strong>, who motions for silence as
+        Vetinari silently observes them for an uncomfortably long
+        time.</p><p>Finally, Vetinari speaks.</p><ul><li><em>“Ah, my guests.
+        You’re all here for different reasons, of course, but I believe you’ll
+        find your individual interests align quite neatly with this… task I have
+        for you. Shall we begin?”</em></li></ul><p>The players quickly realise
+        they have little choice but to listen and cooperate—for now. Thus, their
+        unlikely partnership is sealed under the watchful eye of Lord
+        Vetinari.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 1400000
+    name: 'Side Event 6: Grand Market'
+    type: text
+    _id: 9c4ibIuMEx41tjCY
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Triggers to
+        Visit:</strong></p><ul><li><strong>Rumours:</strong> Players overhear
+        that someone in the market knows about a <em>"big heist"</em> related to
+        the <strong>Heart of the Ankh</strong>.</li><li><strong>Guild
+        Business:</strong> Rival factions may use the market for <strong>covert
+        meetings</strong>.</li><li><strong>Personal Motivation:</strong> Nobby
+        Nobbs might mention the market as a place to gather <em>"useful"</em>
+        supplies— <em>“Trust me, the junk there is genuine
+        garbage!”</em></li></ul><hr
+        /><h3><strong>Description:</strong></h3><p>The <strong>Grand
+        Market</strong> is a chaotic maze of <strong>colourful stalls, shady
+        dealers, and impromptu performances</strong>. Merchants aggressively
+        peddle everything from <strong>questionable relics</strong> to
+        alchemical "remedies" (<em>“Guaranteed to cure absolutely
+        everything!”</em>). <strong>Pickpockets and con artists</strong> move
+        through the crowds like dancers in a well-rehearsed routine.</p><hr
+        /><h3><strong>Elements:</strong></h3><ul><li>A <strong>tattered
+        sign</strong> reads: <em>“Complaints? Speak to management. Good luck
+        finding them.”</em></li><li>A <strong>con artist</strong> boasts about a
+        <em>"legendary map of the vault"</em>, but it’s just a
+        <strong>doodle</strong> of a river and some circles.</li><li>A
+        <strong>cursed item vendor</strong> has accidentally enchanted <strong>a
+        pair of socks</strong>—which keep escaping whenever
+        touched.</li></ul><hr /><h3><strong>Key
+        NPCs:</strong></h3><ul><li><strong>Alfric Bottlebrush (Conman)</strong>
+        – Claims to have <strong>inside information</strong>, but constantly
+        <strong>contradicts himself</strong>.</li><li><strong>Madame Florn
+        (Cursed Artefact Dealer)</strong> – Overzealous, eager to sell
+        <strong>dubious magical trinkets</strong>.</li><li><strong>Street
+        Performer Troupes</strong> – One troupe specializes in
+        <strong>poorly-rehearsed reenactments</strong> of local
+        gossip.</li><li><strong>Beggars' Guild Members</strong> – Observant and
+        talkative—if paid or bribed with food.</li></ul><hr /><h3><strong>GM
+        Prompts:</strong></h3><ul><li>A merchant waves frantically: <em>“Only
+        the finest magical protection charms! Works 30% of the
+        time!”</em></li><li>A street performer trips mid-juggle, sending
+        <strong>a chicken flying</strong> directly at a player.</li><li>A beggar
+        whispers: <em>“I might know a thing or two about missing artefacts...
+        for a pie or three.”</em></li></ul><hr /><h3><strong>Potential Clues and
+        Leads:</strong></h3><ul><li>Players may learn that <strong>Drowned
+        Quarter smugglers</strong> were recently seen <strong>purchasing
+        specialized aquatic transport gear</strong> here.</li><li>A
+        <strong>paranoid vendor</strong> reveals that <strong>guild
+        spies</strong> often use a certain <strong>back alley</strong> near the
+        market for secret meetings.</li><li><strong>Alfric Bottlebrush</strong>
+        suggests a link between the <strong>missing artefact</strong> and a
+        <strong>"mysterious auction"</strong>, though whether this is
+        <strong>real or fabricated</strong> is unclear.</li></ul><hr
+        /><h3><strong>How the Scene Ends:</strong></h3><ul><li>The players
+        acquire <strong>clues, gossip, or supplies</strong> before continuing to
+        either the <strong>Temple District</strong> or the <strong>Drowned
+        Quarter</strong>.</li><li>Alternatively, a <strong>market-wide
+        brawl</strong> might break out due to <strong>guild spies recognizing
+        each other</strong>, forcing the players to <strong>flee, fight, or
+        exploit the chaos</strong>.</li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 850000
+    name: Conclusion
+    type: text
+    _id: tqBUCUxBZpBNpSvP
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3><strong>The Real Culprit: The Alchemists’ Guild (Specifically a
+        Rogue Faction)</strong></h3><p>A small group of rogue alchemists, led by
+        <strong>Master Helix Fumble</strong>, orchestrated the theft. They
+        believe the Heart of the Ankh is a rare stabilising element capable of
+        enhancing explosive experiments. However, the theft wasn’t authorised by
+        the full guild leadership, causing internal chaos and blame-shifting
+        within the guild.</p><hr /><h3><strong>Clues Pointing to Other
+        Factions</strong></h3><p><strong>1. The Thieves' Guild (False
+        Lead)</strong></p><ul><li><em>Motive Suggestion:</em> Rivals of the
+        Temple claim that the Thieves' Guild arranged the theft, possibly as
+        leverage over the guilds controlling the city's major
+        artefacts.</li><li><em>Why It's False:</em> The Thieves' Guild denies
+        involvement, arguing that unauthorised theft would violate guild
+        rules.</li></ul><p><strong>Clue Example:</strong> A minor thief was
+        caught near the scene of the theft but claims he was just hired to
+        "deliver a package" by someone wearing an alchemist’s insignia.</p><hr
+        /><p><strong>2. The Temple of Small Gods (Internal Sabotage
+        Rumour)</strong></p><ul><li><em>Motive Suggestion:</em> Priests whisper
+        that a splinter group within the temple may have staged the theft to
+        discredit the current leadership and prompt divine
+        "intervention."</li><li><em>Why It's False:</em> The paranoid priests
+        are merely deflecting blame due to political tensions in the temple
+        hierarchy.</li></ul><p><strong>Clue Example:</strong> An acolyte
+        overheard heated arguments between priests about "escalating divine
+        retribution theatrics" days before the theft.</p><hr /><p><strong>3. The
+        Drowned Quarter Smugglers (Partial Truth)</strong></p><ul><li><em>Motive
+        Suggestion:</em> Smugglers were hired to transport the artefact after
+        the theft. They’ve been holding it temporarily, unaware of its true
+        nature.</li><li><em>Why It's Partial:</em> The smugglers were unwitting
+        accomplices but had no direct role in the theft. However, they have
+        knowledge of the artefact's movement and who hired
+        them.</li></ul><p><strong>Clue Example:</strong> Malik Scarn, the
+        smuggler leader, has records of a transaction with a "Master Fumble" but
+        refuses to admit it outright without leverage.</p><hr /><p><strong>4.
+        The Assassins' Guild (Red Herring)</strong></p><ul><li><em>Motive
+        Suggestion:</em> Some believe the artefact was taken as part of a
+        shadowy guild contract or internal power struggle.</li><li><em>Why It's
+        False:</em> While the Assassins’ Guild has its fingers in various
+        intrigues, they see no tactical advantage in the theft and have no
+        record of a contract on the artefact.</li></ul><p><strong>Clue
+        Example:</strong> A rival guildmaster spreads the rumour to direct
+        suspicion away from their own faction.</p><hr /><h3><strong>Twists and
+        Layers of Truth</strong></h3><ul><li><p><strong>Master Helix Fumble’s
+        Real Goal:</strong> He wanted to prove his theories on magical
+        stabilisation by using the Heart in secret experiments. His plan
+        backfired when a prototype device nearly exploded, forcing him to hide
+        the artefact.</p></li><li><p><strong>Guild Rivalry
+        Complications:</strong> The theft provides other guilds with an
+        opportunity to undermine each other, leading to backstabbing, bribery,
+        and misdirection throughout the investigation.</p></li></ul><hr
+        /><h3><strong>Final Revelation:</strong></h3><p>During the vault scene,
+        Helix Fumble's faction attempts to reclaim the artefact, revealing that
+        they orchestrated the entire event. Vetinari likely suspected this all
+        along and simply needed the players to expose the truth in a way that
+        could be... <strong>"managed."</strong></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+folder: null
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: JournalEntry.nAUStSumZIRd8IWc
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664697265
+  modifiedTime: 1754664697265
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null
+categories: []

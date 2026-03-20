@@ -1,0 +1,234 @@
+folder: tQ667C3EC8Wp50OI
+name: Thalia Quickstride
+type: character
+_id: ZHT5fnImI988EBRt
+img: >-
+  modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Thalia%20Quickstride.webp
+system:
+  pronouns: She / Her
+  luck: 4
+  organisation: The Patrician's Irregulars
+  background: >-
+    Former street performer
+
+    Thalia has a charming presence, with bright auburn hair and colourful,
+    layered clothing that sways as she moves. Her quick wit and talent for
+    spinning stories make her both a performer and a cunning spy.
+  consequences: ''
+  notes: ''
+  description: ''
+  child: Vsv0gxs2tSo795BV
+prototypeToken:
+  name: Thalia Quickstride
+  displayName: 0
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  width: 1
+  height: 1
+  texture:
+    src: >-
+      modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Thalia%20Quickstride.webp
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - name: Social expert, information broker, support
+    type: niche
+    _id: ep31dXSPTQNQv7BZ
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Gaining trust and uncovering secrets through charm and storytelling
+    type: niche
+    _id: AbnhdW6ZkLk0VjqT
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Stories shape reality; influence is power
+    type: core
+    _id: sRP68P97DpNSUzrn
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Frequently hums or sings under her breath, even in tense situations
+    type: quirk
+    _id: DbygNrIG4eefX6pD
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Creates elaborate backstories for everyday objects or events
+    type: quirk
+    _id: L7YznrRNBqw2egA0
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 500000
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664697228
+  modifiedTime: 1754664885627
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

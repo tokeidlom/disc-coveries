@@ -1,0 +1,141 @@
+folder: 56HZmODDNW4jKKYo
+name: Tear Along Dotted Line
+type: NPC
+_id: uRACRwKXA3ODhqnS
+img: modules/disc-coveries/assets/doon_the_cludgie/tear_along_dotted_line.png
+system:
+  pronouns: He / Him
+  species: Educated Rodents
+  mannerism: ''
+  storyprompt: >-
+    Tear Along Dotted Line might demand to see some kind of “pass” for traveling
+    through the tunnels, trying to impress the Feegles with his “authority.” 
+  notes: >-
+    The self-proclaimed leader of the rat gang, Tear Along Dotted Line sees
+    himself as a strategist and enforcer. Wearing a discarded strip of patterned
+    packaging as a “robe,” he’s bossy, officious, and insists the Feegles follow
+    the “proper” sewer procedures for their own safety.
+  role: ''
+  traits: ''
+prototypeToken:
+  name: Tear Along Dotted Line
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: >-
+      modules/disc-coveries/assets/doon_the_cludgie/tear_along_dotted_line_token.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: true
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - name: The self-proclaimed leader of the rat gang
+    type: niche
+    _id: GqQRc4aFm9a79bO8
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.uRACRwKXA3ODhqnS
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541660
+  modifiedTime: 1754664541660
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

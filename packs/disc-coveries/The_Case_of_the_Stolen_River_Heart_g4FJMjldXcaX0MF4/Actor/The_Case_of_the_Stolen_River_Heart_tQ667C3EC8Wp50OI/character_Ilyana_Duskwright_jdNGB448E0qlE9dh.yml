@@ -1,0 +1,234 @@
+folder: tQ667C3EC8Wp50OI
+name: Ilyana Duskwright
+type: character
+_id: jdNGB448E0qlE9dh
+img: >-
+  modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Ilyana%20Duskwright.webp
+system:
+  pronouns: She / Her
+  luck: 4
+  organisation: The Patrician's Irregulars
+  background: >-
+    A disgraced engineer
+
+    Ilyana has silver-streaked hair, often tied back in a messy bun, and wears
+    practical clothes adorned with tool belts and gadgets. She’s both brilliant
+    and headstrong, never missing an opportunity to tinker with machines.
+  consequences: ''
+  notes: ''
+  description: ''
+  child: Vsv0gxs2tSo795BV
+prototypeToken:
+  name: Ilyana Duskwright
+  displayName: 0
+  actorLink: false
+  appendNumber: false
+  prependAdjective: false
+  width: 1
+  height: 1
+  texture:
+    src: >-
+      modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Ilyana%20Duskwright.webp
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - name: Mechanic, puzzle solver, negotiator with technical expertise
+    type: niche
+    _id: UiDqepAq9OoZCKPJ
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Crafting and manipulating waterworks and other complex mechanisms
+    type: niche
+    _id: 548pK8RgHS8S5ufG
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Innovation requires breaking the rules
+    type: core
+    _id: trcuA66hzSyUPXNq
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Tends to fiddle with gears or tools while thinking
+    type: quirk
+    _id: X8fmnrOafVsoFiGC
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - name: Frequently mutters sarcastic remarks about "ancient wisdom"
+    type: quirk
+    _id: NGEBW8cC6xGlRFhB
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 300000
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664697228
+  modifiedTime: 1754664891570
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

@@ -1,0 +1,313 @@
+folder: xtL9Ea8bzShM6cxV
+name: Rhona the Rhymer
+type: character
+_id: wh1xHV1AXzRtRNfh
+img: modules/disc-coveries/assets/doon_the_cludgie/rhona_the_rhymer.png
+system:
+  pronouns: She / Her
+  luck: 4
+  organisation: Feegle Clan of the Chalk
+  background: >-
+    Pictsie (Feegle)
+
+    Aspiring to be the first female Gonnagle and has no interest in ever being a
+    Clan leader. trained under the great poets and curse-slingers of the clan.
+    Rhona is small even for a Feegle, with fiery red hair that she keeps pulled
+    back in an attempt to look “bardic.” She’s often found furiously scribbling
+    in her rhyme book, muttering new insults or verses to herself. Though her
+    voice is surprisingly loud, she hasn’t quite mastered its range, often
+    screeching notes that set teeth on edge. Her determination to prove herself
+    as a Gonnagle makes her intensely focused, and she tends to over-dramatize
+    even the smallest situations.
+  consequences: ''
+  notes: ''
+  description: ''
+  child: 0lyVC25fEndkYYxh
+prototypeToken:
+  name: Rhona the Rhymer
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: modules/disc-coveries/assets/doon_the_cludgie/rhona_the_rhymer_token.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - folder: AfgtyubMZbVALb3A
+    name: Bard-in-Training, Rhyme Conjuror, Curse-Slinger
+    type: niche
+    _id: Vjt5R7HYXUvgIVK5
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.3a2pXHgueJU6W2Id
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Rhona can craft a rhyme or curse for nearly any situation
+    type: niche
+    _id: PO4t4XED25vTipdW
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: Though her lack of experience sometimes leads to… unexpected outcomes.
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.bCF5UnoFXMtrkHyk
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Rhona is quick-witted, clever, and just a little too eager to impress.
+    type: core
+    _id: h8gCNhxVhs14pCUJ
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: >-
+        She has a fierce desire to be recognized as a proper Gonnagle and is
+        always eager to showcase her skills, even if they’re not quite honed.
+        She’s quick to throw a poetic insult or attempt a rallying verse, often
+        with mixed results.
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.1SOWdPNxAj6I4Dp9
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Loves dramatic flourishes
+    type: quirk
+    _id: 229qND8ZX1GgEuqT
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.KsOx1JUipDJDBocx
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Carries a small, cracked harp she plays very badly
+    type: quirk
+    _id: Zphb8aCxgWkvgKXf
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.Jd2DNKP0YTVTJDbT
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Keeps a list of “Epic Feegle Rhymes” in a small, much-stained book
+    type: quirk
+    _id: JSOKPsk595kzGUwA
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.AD9ZnjvaFZzs5HRO
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Her rhymes sometimes backfire
+    type: quirk
+    _id: VGOVuv14fee3zkUU
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: >-
+        Causing unintended side effects (like inspiring uncontrollable laughter
+        instead of fear).
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.fC9kMPeSXhAepXNc
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Optional Additional Abilities and Flavour for Rhona
+    type: core
+    _id: AMXz4miOvqDofICv
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: "Rhyming Battle Cries: Rhona can attempt to rally her clanmates or intimidate enemies by shouting original (often silly) rhymes. Some examples:\n•\tFor a battle cry: “A Feegle stands tae do or die, ye flea-bit beast, prepare tae fly!”\n•\tTo inspire her friends: “We’ll crawl through muck, we’ll trudge through grime, wi’ grit and strength, we’ll pass the time!”\nMixed-Blessing Curses: Though still honing her Gonnagle skills, Rhona’s rhymes sometimes produce unintended effects, particularly if her wording gets a bit off. For instance:\n•\tIntended Curse: “May yer eyes be bleary, yer mind confused, yer strength be lost and yer courage abused!”\n•\tUnintended Outcome: The curse works… but everyone in the room, including the Feegles, finds themselves temporarily mixing up words and feeling a bit dizzy.\nInspiring Tunes (Sort of): Her small harp can produce vaguely tuneful sounds if she’s careful. When she plays, her friends might get a minor boost to morale—assuming they can stand the sound long enough. However, any nearby enemies with sensitive hearing (like trolls) might find the off-key plucking more annoying than intimidating.\nEpic Feegle Epitaphs: Rhona is collecting the “great lines of the Feegles” in her rhyme book, hoping to one day write her own to live on in Feegle legend. She’s been practicing lines like:\n•\t“When ye face Rhona, prepare tae cower, or end up pruned like a wilted flower!”\n•\t“Rhona the Rhymer will see ye down, ‘tis wise tae flee when I come tae town!”\nRhona’s a bold, eager character whose ambition sometimes outruns her skill, leading to both hilarious and surprisingly effective moments. She’s a perfect fit for the clan as they navigate the sewers, offering bursts of inspiration, questionable curses, and a poetic commentary to their misadventures.\n"
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.6GEXlFyeADFhTOVU
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.wh1xHV1AXzRtRNfh
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541660
+  modifiedTime: 1754664594432
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

@@ -1,0 +1,19 @@
+name: Doon the Cludgie
+sorting: a
+folder: null
+type: Item
+_id: 8Xzj3iUVcGk2odGs
+description: ''
+sort: 0
+color: null
+flags: {}
+_stats:
+  compendiumSource: Folder.8Xzj3iUVcGk2odGs
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541761
+  modifiedTime: 1754664541761
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

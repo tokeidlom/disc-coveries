@@ -1,0 +1,19 @@
+type: Actor
+folder: 6zimnARFGbzjljUa
+name: NPC
+color: null
+sorting: a
+_id: 56HZmODDNW4jKKYo
+description: ''
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  exportSource: null

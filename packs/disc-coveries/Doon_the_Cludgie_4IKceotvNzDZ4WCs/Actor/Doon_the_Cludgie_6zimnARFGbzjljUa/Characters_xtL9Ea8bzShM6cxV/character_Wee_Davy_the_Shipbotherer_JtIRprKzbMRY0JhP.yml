@@ -1,0 +1,238 @@
+folder: xtL9Ea8bzShM6cxV
+name: Wee Davy the Shipbotherer
+type: character
+_id: JtIRprKzbMRY0JhP
+img: modules/disc-coveries/assets/doon_the_cludgie/wee_davy_the_shipbotherer.png
+system:
+  pronouns: He / Him
+  luck: 4
+  organisation: Feegle Clan of the Chalk
+  background: >-
+    Pictsie (Feegle)
+
+    Famed for his “talent” at getting into sticky situations, literally and
+    metaphorically. A small, wiry Feegle with spiky hair, Wee Davy’s known for
+    his grimy appearance and his constant grin. He keeps a lucky piece of sticky
+    moss on him for “good measure” and frequently jokes about his sewer
+    exploits.
+  consequences: ''
+  notes: ''
+  description: ''
+  child: 0lyVC25fEndkYYxh
+prototypeToken:
+  name: Wee Davy the Shipbotherer
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: >-
+      modules/disc-coveries/assets/doon_the_cludgie/wee_davy_the_shipbotherer_token.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - folder: AfgtyubMZbVALb3A
+    name: Master of the Sneak, Sewer Navigator, Slippery Lad
+    type: niche
+    _id: PIBdFG9wngskrDAF
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.ZDqZVtKqzP9r8tal
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Knows every stinky hiding place in the sewers of Ankh-Morpork
+    type: niche
+    _id: snpZE6BJgAHjm3qS
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.VUEThEHrPyeHVBoA
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Has a thing for sticky goop; constantly uses rude insults, often recycled
+    type: quirk
+    _id: MMD2EBd2qWOgXIGs
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.XzOknvVqTLeyihZe
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Proud of his “signature stink”
+    type: quirk
+    _id: nku5risW5NP1hSMs
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.wuco9IINxtVXJeUc
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Wee Davy’s motto is “better out than in!”
+    type: core
+    _id: y0X8nV3K8xNTBiLA
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: >-
+        He approaches every challenge with a mix of snide humour and unshakable
+        self-confidence, and he believes his slippery talents are the height of
+        Feegle skill.
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.5m6zqkHQmbGggQh3
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.JtIRprKzbMRY0JhP
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541660
+  modifiedTime: 1754664593174
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

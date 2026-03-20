@@ -1,0 +1,641 @@
+folder: null
+name: Doon the Cludgie
+_id: E8rUogDsfrk0km4D
+pages:
+  - sort: 100000
+    name: 'Adventure Opening: The Magical Refuse Heap'
+    type: text
+    _id: EM1RsfPlCRNrGuo3
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Our adventure opens just as the young witch <strong>Tiffany
+        Aching</strong> steps away from her meeting with <strong>Eskarina
+        Smith</strong>, only to realize, with a jolt of panic, that her prized
+        white horse pendant is missing. She had last seen it near the Unseen
+        University’s refuse heap—an enormous and chaotic mound of wizardly junk
+        and discarded magical experiments. Tiffany suspects that, in a moment of
+        inattention, it must have slipped off and tumbled down the privy drain.
+        Knowing the dangers that lurk under the university, she knows just who
+        to call: the Nac Mac Feegles.</p><p class="MsoNormal"
+        style="text-align:justify">The Feegles, true to their nature, take up
+        her request with an eagerness for mischief, loot, and a challenge. Even
+        as Tiffany pleads with them to handle the pendant gently, they’re
+        already scheming ways to snag whatever other “treasures” they might
+        encounter. This is no ordinary search, and with the rowdy Feegles on the
+        job, it’s bound to be anything but a straightforward recovery
+        mission.</p><p class="MsoNormal" style="text-align:justify"><strong>GM
+        Prompt:</strong> <span style="font-family:inherit">Tiffany has been
+        speaking to Rob Anybody, and he approaches the party looking for a group
+        of “volunteers” to search the sewers, as the party are the only ones
+        that have so far yet roused from their carousing and drinking last
+        night, they’ll have to do! Use this as an opportunity to encourage the
+        Feegles to “use their heids, and not just for nuttin’ stuff neither, the
+        big wee hag did learn them their numbers and letters an all, and we’d
+        not want ti see her a tappin’ o’ the feets, or pursin’ o’ the lips”.
+        </span>Describe the chaotic dump, where the Feegles may uncover all
+        sorts of magical oddments left behind by careless wizards. They may even
+        encounter the talking dog, <strong>Gaspode</strong>, who is exploring
+        the heap for scraps of food. He may, or (more likely) may not be helpful
+        with directions or unsolicited advice. Strange noises echo from the
+        depths of the privy, and the trash heap seems almost alive with strange
+        magical items, glistening potion bottles, and perhaps an occasional
+        rat.</p><p class="MsoNormal"
+        style="text-align:justify"><strong>Encounters:</strong></p><ul
+        style="margin-top:0cm"><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>Wizardly Detritus:</strong> Items scattered around
+        here include spell-infused scraps, malfunctioning charms, and broken
+        wands. A player might be tempted to grab something that looks valuable,
+        only to accidentally activate it, triggering amusing consequences (minor
+        magical effects, temporary strange appearances, etc.).</p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><strong>Path to the Privy:</strong> After
+        some investigation, the Feegles realize they must head into the privy
+        and down into the university sewer system, an unplanned but essential
+        detour on their adventure.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 2: Round the S-Bend – Hallucinations in the Octarine Mist'
+    type: text
+    _id: jVzQQaMfprz9CyD6
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The Feegles inevitably plunge down the privy and eventually emerge
+        spluttering into a dimly lit chamber filled with a strange fungus that
+        reacts to any movement by emitting puffs of octarine spores. These
+        spores cling to the Feegles and cause intense hallucinations.</p><p
+        class="MsoNormal" style="text-align:justify">The Feegles must tread
+        carefully, moving slowly or holding their breath, but inevitably one of
+        them stirs up the spores. Soon, they’re stumbling through the chamber,
+        disoriented, seeing mythical monsters, endless treasures, or even each
+        other as odd creatures. They eventually stumble out of the chamber,
+        laughing and shouting at their hallucinations, finally able to shake off
+        the strange visions.</p><p class="MsoNormal"
+        style="text-align:justify">Every step disturbs clouds of octarine
+        spores, which cling to their skin, producing vivid hallucinations. Rhona
+        the Rhymer sees herself surrounded by adoring fans, each one chanting
+        her name, while Big Jessie suddenly believes he’s grown to the size of a
+        giant and demands the others refer to her as “Yer Majesty.” Old Shuggy
+        Two Thumbs, meanwhile, is convinced he’s seen a “Grand Invention” and
+        tries to build an imaginary contraption out of thin air.</p><p
+        class="MsoNormal" style="text-align:justify"><strong>GM Prompt:</strong>
+        The air is thick with an odd, pulsing glow. Every step seems to stir up
+        clouds of luminescent spores, creating vivid, shifting images and
+        strange sounds. Any Feegle nearby is likely to see things that aren’t
+        there or mistake the room for something far more sinister (or humorous)
+        than it really is.</p><p class="MsoNormal"
+        style="text-align:justify"><strong>Possible Solutions:</strong></p><ul
+        style="margin-top:0cm"><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>Move Slowly:</strong> If the Feegles tread lightly
+        and carefully, they can avoid triggering the fungal puffs.</p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><strong>Hold Their Breath:</strong>
+        Players can try to cross the room in one big breath, though this will
+        require a group test.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>Use Traits to Hallucinate Productivity and
+        Progress:</strong> The Feegles might try to focus on a hallucination to
+        avoid panic, or creatively exploit the illusion to bypass obstacles. The
+        hallucinations should last long enough for them to be a hindrance to
+        progress, and they stop being funny.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 3: The Educated Rodents'
+    type: text
+    _id: bOzPxBf182XRPPPJ
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Probably still tripping from the octarine spores, the Feegles venture
+        further into the sewer, where they’re stopped by a gang of sentient
+        rats. These are no ordinary sewer rats; they’ve scavenged bits of
+        wizardly refuse and even read scraps of wizardly papers, giving them a
+        skewed sense of importance. The rats, brimming with bureaucratic
+        pomposity, demand that the Feegles present their “pass” for access to
+        this section of the sewer. Tear Along Dotted Line tries to look
+        imposing, adjusting his paper sash and waving his “rules” with utmost
+        seriousness. They don’t like the intruders on their “manor” and will try
+        to extract all sorts of promises from the feegles as well as a share in
+        any treasure.</p><p class="MsoNormal" style="text-align:justify">Each
+        rat wears bits of discarded wrappers, labelling, and tags they’ve taken
+        for names. The rats are highly organized, slightly pompous, and carry
+        themselves with an air of bureaucratic authority—having spent years
+        scavenging and reading scraps of wizardly refuse and food
+        packaging.</p><p><strong>GM Prompt:</strong> As the Feegles enter the
+        chamber, the rats step forward in a unified formation, each rat standing
+        at attention with a makeshift sash or badge displaying their “names”
+        from whatever scraps they wear. The rats demand to know the Feegles'
+        business in "their" tunnels, warning them of all sorts of nonsensical
+        “regulations” they must follow.</p><p>Key Rat Characters (use as many or
+        as few as necessary, from NPC section).</p><p>Example Dialogue and
+        Interaction Suggestions:</p><p class="MsoNormal"
+        style="text-align:justify">Each rat can contribute something different
+        to the encounter:</p><ul style="margin-top:0cm"><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Tear Along Dotted Line might demand to see some kind of
+        “pass” for traveling through the tunnels, trying to impress the Feegles
+        with his “authority.”</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Warranty Void will happily wax philosophical about the
+        dangers of underground travel, using words he picked up from wizard
+        papers without truly understanding them.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Batch No. 72 could argue with his fellow rats about what to
+        “document,” possibly slowing things down with endless bureaucratic
+        chatter.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>If Symptoms Persist and Seek Medical Advice may advise the
+        Feegles on dubious health precautions for being covered in
+        sludge.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Best Before Date might sniff around any food the Feegles
+        carry and try to barter passage in exchange for a snack.</p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>Ribbed For Her Pleasure may try to
+        flatter the Feegles or emulate their warrior bravado, getting the tone
+        wrong but providing comic relief.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Keep Away From Fire will react dramatically to any torches or
+        magic items they carry, warning them about the “flammable gases” down
+        here.</p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Lemon Scented may be the only rat who genuinely wants to
+        help, trying to make a positive impression despite her quirky
+        companions.</p></li></ul><p class="MsoNormal"
+        style="text-align:justify"><strong>Outcome:</strong></p><p
+        class="MsoNormal" style="text-align:justify">The Feegles must figure out
+        how to satisfy or outwit the rat gang. They may try to intimidate,
+        bribe, or trick their way through, or even humour the rats by pretending
+        to follow their “procedures.” Successful interactions with the rats can
+        yield valuable information about the tunnels or the ghost that guards
+        Tiffany’s pendant, and perhaps even a guide (Lemon Scented or Ribbed For
+        Her Pleasure) for the rest of the journey.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 4: Glorp the Grand Accumulation – The Fatberg King'
+    type: text
+    _id: V60bryW7TMsZyP10
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span style="font-family:Signika">Deeper in the sewers, they come
+        upon a vast, living sentient fatberg named Glorp, self-styled as the
+        “Grand Accumulation.” Glorp is a massive, oozing pile of grease, soap,
+        and magical sludge, groaning with self-importance. In a deep, sludgy
+        voice, he calls himself the “Keeper of All Things Cast Away” or the
+        “Monarch of Muck” and warns the Feegles that they’re trespassing in his
+        “kingdom.” It is very displeased to have visitors.</span></p><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika">Glorp presents a formidable challenge: the
+        Feegles might try to fight it (though every strike splatters them with
+        goop), trick it, or dissolve it using magic items they’ve scavenged.
+        Eventually, with much dodging, shouting, and (probably) some slippery
+        mishaps, the Feegles manage to either defeat or outwit Glorp, who lets
+        out a resounding “GRRRLOOOOP” and collapses, flooding the tunnel with
+        thick sludge. The Feegles emerge, now glowing faintly from being
+        “Covered in Octarine Goop.”</span></p><p class="MsoNormal"
+        style="text-align:justify"><span style="font-family:Signika">The fatberg
+        a sense of ominous majesty, befitting its monstrous and sentient nature.
+        "Glorp" evokes the goopy, gross aspect of the creature, while "Grand
+        Accumulation" hints at its importance and pride in its bloated,
+        collected state.</span></p><p class="MsoNormal"
+        style="text-align:justify"><span style="font-family:Signika"><strong>GM
+        Prompt:</strong> The fatberg’s “body” bubbles and shifts as it blocks
+        their path, letting out a deep, resonant groan. The scent is
+        overpowering, and it exudes a strong aura of Octarine —players may need
+        to find creative ways to justify their actions here.</span></p><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika"><strong>Possible
+        Solutions:</strong></span></p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span
+        style="font-family:Signika"><strong>Fight It:</strong> The Feegles could
+        hack away at the fatberg, though this will splatter them in magical
+        sludge.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika"><strong>Trick It:</strong>
+        The fatberg might be persuaded to shift if they convince it they’re
+        merely a figment of its imagination.</span></p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span
+        style="font-family:Signika"><strong>Dissolve It with Magic
+        Items:</strong> Players may attempt to use anything magical they picked
+        up from the dump to dissolve or shrink it.</span></p></li></ul><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika">If the fatberg is disrupted, it sprays
+        Octarine sludge, creating a new consequence: the players gain the
+        temporary trait <strong>Covered in Octarine Goop</strong>—which will
+        make them smell, glow slightly, all of which could complicate future
+        encounters.</span></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 5: Coprolite, The Blind Troll'
+    type: text
+    _id: jceRU1Xx4hM8Au1R
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span style="font-family:Signika">At this point, the players are deep
+        in the sewers and find a giant blind troll with his head sticking out of
+        a nearby wall. The troll has gotten stuck in the tunnels, and his head
+        blocks a critical passageway.</span></p><p class="MsoNormal"
+        style="text-align:justify"><span style="font-family:Signika">The troll,
+        Coprolite, is wedged into the tunnel wall with his head blocking the
+        passage. Blind and slightly grumpy – he’s been here a while and is
+        hungry, Coprolite sniffs the air, muttering about the “odd smell of tiny
+        warriors.” The Feegles, now glowing and reeking of magical sewage,
+        realize they need to either sneak past him or soothe his worries to move
+        forward.</span></p><p class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika"><strong>GM Prompt:</strong> Describe the
+        huge, scaly head of the troll as it sniffs around blindly, occasionally
+        mumbling to itself. Its blindness means it can’t see the Feegles, but it
+        can certainly smell them—especially if they still have the
+        <strong>Covered in Octarine Goop</strong> trait!</span></p><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika"><strong>Possible
+        Solutions:</strong></span></p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span
+        style="font-family:Signika"><strong>Sneak Past Quietly:</strong> This
+        will require a stealth test, made harder if the players still have the
+        trait <strong>Covered in Octarine Goop</strong>.</span></p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span
+        style="font-family:Signika"><strong>Soothe the Troll:</strong> The
+        Feegles might try to talk soothingly to the troll, keeping it calm and
+        distracted as they pass.</span></p></li></ul><p><span
+        style="font-family:Signika"><strong>Help the Troll Unstick
+        Itself:</strong> The troll may agree to help them find Tiffany’s pendant
+        if they can figure out a way to help him get unstuck. This will involve
+        creative problem-solving and a group test.</span></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 6: The Sewage Crossing'
+    type: text
+    _id: jS7JnEGWpl9u7CpP
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span style="font-family:Signika">As the Feegles continue down the
+        dank, winding pipes of the University’s sewer system, they come across a
+        massive pool of stagnant sewage blocking their path. The pool stretches
+        across the tunnel and swirls ominously, emitting a foul odour and
+        containing floating debris—broken bits of furniture, rotting wood, and
+        various wizardly refuse that may (or may not) be useful. A small raft
+        could be constructed to cross the pool safely, though it will require
+        some ingenuity.</span></p><p class="MsoNormal"
+        style="text-align:justify"><span style="font-family:Signika"><strong>GM
+        Prompt:</strong> Describe the thick, brackish sewage, peppered with odd
+        magical items and bits of junk. The pool’s surface ripples and shifts,
+        hinting at the unknown depths below. Foul-smelling bubbles occasionally
+        rise, and the discarded wizardly artifacts appear slightly unstable,
+        radiating a faint octarine glow.</span></p><p class="MsoNormal"
+        style="text-align:justify"><span
+        style="font-family:Signika"><strong>Challenges:</strong></span></p><ul
+        style="margin-top:0cm"><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Raft Construction: The
+        Feegles must scavenge usable items from the surrounding muck. They can
+        gather planks, barrels, or even a broken-down settee, tying it all
+        together with strips of fabric, shoelaces, or any detritus lying
+        around.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Avoiding “Accidents”: The
+        pool occasionally belches up bubbles of noxious gas, requiring players
+        to avoid or shield themselves from the smell and potential splash of
+        muck. This might require quick thinking and agility tests if the raft
+        gets rocked by these unexpected eruptions.</span></p></li><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span style="font-family:Signika">Raft
+        Navigation: The pool is full of hazards—floating wizard junk, occasional
+        puffs of magical energy, and strange, suctioning eddies. The Feegles
+        must paddle across, dodging obstacles and keeping their balance. If they
+        lose control, they may end up in the muck, suffering some temporarily
+        inconvenient effects (like a “Sewage-soaked”
+        trait).</span></p></li></ul><p class="MsoNormal"
+        style="text-align:justify"><span
+        style="font-family:Signika"><strong>Possible
+        Solutions:</strong></span></p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="text-align:justify;mso-list:l1 level1
+        lfo2;tab-stops:list 36.0pt"><p><span style="font-family:Signika">Quick
+        Raft-Building: Using their innate Feegle resourcefulness, the players
+        can construct a serviceable raft by gathering scraps quickly, possibly
+        with guidance from any tools or magic they found earlier. Players might
+        also use their <em>Daft Pictsie Engineering</em> trait to try to
+        stabilize the raft.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l1 level1 lfo2;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Row and Dodge: Rowing the
+        raft with pieces of wood or other odd objects, they can carefully steer
+        around the obstacles. Players must work together to stay balanced, as a
+        few sudden movements could risk sending them all into the
+        muck.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l1 level1 lfo2;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Magical Assistance: If any
+        of the Feegles picked up magical items earlier in the adventure, they
+        might use them here, perhaps creating a gust of wind to help move the
+        raft or temporarily ward off the nasty smells.</span></p></li></ul><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika">Upon successfully navigating the pool, the
+        Feegles arrive at the final section of the sewer, right below the
+        University’s privy where they spot Tiffany’s pendant gleaming just above
+        the waterline… but guarded by a ghostly old wizard.</span></p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Scene 7: The Privy Treasure'
+    type: text
+    _id: vap4JzLaonOchtnK
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<p>Finally, the Feegles find themselves at the bottom of the pipe system, right below the University’s privy. The chamber is a mix of sludge, water, and more magical debris. Near the surface, gleaming slightly amid the muck, is Tiffany’s pendant—but it’s guarded by <a>Jorg Winkl. It had been used back in its day to interview prospective students, but as it has extreme prejudices to the point of never admitting any students at all*.</a></p><p class=\"MsoNormal\" style=\"text-align:justify\"><a><strong>GM Prompt:</strong> The hat rises ominously, muttering about its lost library privileges and demanding they leave “it’s” pendant alone. It may initially mistake the Feegles for student wizards playing a prank or may decide it needs to interview them as potential new students, adding to the potential for comedic interaction.</a></p><p class=\"MsoNormal\" style=\"text-align:justify\"><a><strong>Possible Solutions:</strong></a></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><a><strong>Convince the Hat:</strong> The Feegles can try to persuade the hat that Tiffany needs the pendant more than it does, playing to its sense of academic honour.</a></p></li><li class=\"MsoNormal\" style=\"text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><a><strong>Intimidate the Hat:</strong> If the Feegles are brave enough to challenge it, they may just scare it off.</a></p></li><li class=\"MsoNormal\" style=\"text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><a><strong>Trick the Hat:</strong> The Feegles might try to distract the hat and grab the pendant when it’s not looking.</a></p></li></ul><p class=\"MsoNormal\" style=\"text-align:justify\"><a>Once they retrieve the pendant, the Feegles can retrace their steps (or, more likely, be swept along a flood of sewer water) back to Tiffany, who will be incredibly grateful and reward them with a heartfelt thanks, along with possibly a small magical token for their courage.</a></p><p class=\"MsoNormal\" style=\"text-align:justify\"><a><em>\_</em></a></p><p><a><em>*For quite some time this suited the then Arch Chancellor,<strong> Alberto Malich</strong> finding that students were generally irritating and having to teach them was a distraction for the entire faculty from their incredibly long lunches, dinners and subsequent naps. However, funding being what it was in magical Accademia even then, it eventually resulted in the University being forced into near bankruptcy due to loss of student fees. He then flushed the hat down the privy to conveniently dispose of it in a fit of rage.</em></a></p>"
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Finale: The Grand Flush'
+    type: text
+    _id: BA5tKEZbWO0coxVb
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><span style="font-family:Signika">After retrieving Tiffany’s pendant
+        from the ghostly wizard, the Feegles’ celebration is interrupted by a
+        sudden, powerful rumble from above—<em>Archchancellor Ridcully has
+        decided it’s time for a bath!</em> As he plunges into the tub, the surge
+        of water from above causes a massive flood through the University’s
+        pipes – and as the plumbing was designed and installed by Bloody Stupid
+        Johnson, this isn’t going to be pretty…</span></p><p class="MsoNormal"
+        style="text-align:justify"><span style="font-family:Signika"><strong>GM
+        Prompt:</strong> The ground begins to tremble as a rush of water echoes
+        from above, sweeping the Feegles and their newly acquired pendant along
+        with it. Water from Ridcully’s bath surges through the pipes, turning
+        their surroundings into a chaotic torrent of water, sewage, and magical
+        debris, carrying them rapidly back the way they came.</span></p><p
+        class="MsoNormal" style="text-align:justify"><span
+        style="font-family:Signika"><strong>Escape
+        Options:</strong></span></p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><span style="font-family:Signika">Ride
+        the Wave: The Feegles can attempt to “surf” the flood by grabbing onto
+        floating debris and riding the wave out of the tunnels. This requires
+        quick reflexes and nimble maneuvering, as they dodge debris and avoid
+        getting smacked by objects swirling through the
+        current.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Work Together: Feegles
+        might form a “Feegle Chain” by holding onto each other and using their
+        strength in numbers to avoid getting separated in the rushing
+        water.</span></p></li><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><span style="font-family:Signika">Brave the Flood: For
+        Feegles who embrace the chaotic thrill, they can attempt to navigate the
+        flood by simply holding their breath and letting it carry them out,
+        albeit with some bumps along the way.</span></p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+  - sort: 100000
+    name: 'Conclusion: Return to the Surface, Dumped Back at the Start'
+    type: text
+    _id: Fnw0QsMxWxpfNkZL
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The Feegles are eventually spat out from a large sewer drain near the
+        refuse dump where they began, soaked but triumphant, still clutching
+        Tiffany’s pendant. Tiffany greets them, thanking them for braving such
+        peril to recover her pendant and listening with a mix of amusement and
+        horror as they recount their escapades. She promises a small gift or
+        perhaps a “blessing” on their future adventures, hinting that she will
+        call upon them again for help in the future.</p><p class="MsoNormal"
+        style="text-align:justify"><strong>Epilogue:</strong></p><ul
+        style="margin-top:0cm"><li class="MsoNormal"
+        style="text-align:justify;mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Temporary Traits: Each Feegle may gain a new temporary trait
+        from their journey, such as “Covered in Octarine Goop,” “Privy Raider,”
+        or “Magical Hangover” from inhaling too many wizardly
+        fumes.</p></li><li><p>Tiffany’s Gift: Tiffany might present the Feegles
+        with a small token or magical charm as a thank-you for their bravery and
+        service.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    ownership:
+      default: -1
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+    category: null
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: JournalEntry.E8rUogDsfrk0km4D
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541717
+  modifiedTime: 1754664541717
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null
+categories: []

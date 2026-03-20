@@ -1,0 +1,19 @@
+name: The case of the Stolen River Heart
+sorting: a
+folder: null
+type: Item
+_id: XeJs0yrSgvseulSj
+description: ''
+sort: 0
+color: null
+flags: {}
+_stats:
+  compendiumSource: Folder.XeJs0yrSgvseulSj
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664770549
+  modifiedTime: 1754664770549
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

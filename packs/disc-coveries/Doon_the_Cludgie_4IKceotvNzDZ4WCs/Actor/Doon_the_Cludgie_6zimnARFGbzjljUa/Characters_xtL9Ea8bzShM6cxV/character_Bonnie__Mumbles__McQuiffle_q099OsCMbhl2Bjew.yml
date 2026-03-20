@@ -1,0 +1,239 @@
+folder: xtL9Ea8bzShM6cxV
+name: Bonnie “Mumbles” McQuiffle
+type: character
+_id: q099OsCMbhl2Bjew
+img: modules/disc-coveries/assets/doon_the_cludgie/bonnie_mcquiffle.png
+system:
+  pronouns: ''
+  luck: 4
+  organisation: Feegle Clan of the Chalk
+  background: >-
+    Pictsie (Feegle)
+
+    A former Feegle “medic” with an odd talent for fungi and herbs, future Clan
+    leader. Small and stout, with curly hair tangled with bits of moss and
+    herbs, Bonnie has a perpetually soft-spoken manner. Her voice tends to trail
+    off as she mumbles spells, and her satchel is overflowing with herbs and
+    salves.
+  consequences: ''
+  notes: ''
+  description: ''
+  child: 0lyVC25fEndkYYxh
+prototypeToken:
+  name: Bonnie “Mumbles” McQuiffle
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: modules/disc-coveries/assets/doon_the_cludgie/bonnie_mcquiffle_token.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - folder: AfgtyubMZbVALb3A
+    name: Mushroom Whisperer, Medic-in-a-Pinch, Potion Mixer
+    type: niche
+    _id: te6YBtG37MkWdWCq
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.rynSa328n3fCGXwP
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Bonnie is kind-hearted and gentle by Feegle standards
+    type: core
+    _id: 0p1FSBpnZzziOfjU
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: >-
+        Always trying to heal her kin (whether they need it or not). She sees
+        adventure as a way to expand her herbal knowledge and tends to the
+        Feegles’ many scrapes and bruises. Her gentle approach keeps her safe,
+        but her curiosity about strange fungi can sometimes get her into
+        trouble.
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.BWooLBQPbVgZTJYO
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Mumbles long Feegle healing charms
+    type: quirk
+    _id: CSr9lWSUgy9xuIng
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.gxYdXZvrFqMR9pD4
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Sniffs every mushroom
+    type: quirk
+    _id: zAUSodLzSvXhayD2
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.SQDMuFxFLgUgafsA
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Stores herbs in her hair
+    type: quirk
+    _id: NP2Co0uXD8rMi6F5
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.twHkUwFKOInACm54
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.q099OsCMbhl2Bjew
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541660
+  modifiedTime: 1754664596743
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

@@ -1,0 +1,77 @@
+name: The Case of the Stolen River Heart
+img: >-
+  modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Grand%20Market%20scene.webp
+caption: A 'Discworld, Adventures in Ankh-Morpork' adventure by CalinStar
+sort: 1
+description: >-
+  <p><span style="font-family:Signika, sans-serif">The <strong
+  style="box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar)
+  var(--color-scrollbar-track)">Heart of the Ankh</strong> (an artefact tied to
+  the mysterious ebb and flow of the river) has gone missing from the <strong
+  style="box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar)
+  var(--color-scrollbar-track)">Temple of the Ankh</strong>. With guild
+  rivalries already teetering on the edge of war, <strong
+  style="box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar)
+  var(--color-scrollbar-track)">Lord Vetinari</strong> quietly assembles a group
+  of "independent specialists" to handle the matter discreetly... by which he
+  means without paperwork and plausible deniability.</span></p>
+actors:
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Actor/The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI/character_Brother_Aldwin_Greenshade_BhhWRI6Vb81JdB9k.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Actor/The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI/character_Garrik__Grinder__Flintbeard_bRMPE4KBEHTQPHZB.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Actor/The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI/character_Ilyana_Duskwright_jdNGB448E0qlE9dh.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Actor/The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI/character_Sylas_Vexmoor_fdT1mXu4Gf44vuwJ.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Actor/The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI/character_Thalia_Quickstride_ZHT5fnImI988EBRt.yml
+combats: []
+items:
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Item/The_case_of_the_Stolen_River_Heart_XeJs0yrSgvseulSj/party_The_Patrician_s_Irregulars_Vsv0gxs2tSo795BV.yml
+journal:
+  - The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/JournalEntry_The_Case_of_the_Stolen_River_Heart_nAUStSumZIRd8IWc.yml
+scenes:
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_1__The_Patrician_s_Office_39biJPex6PgbZiW1.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_2__The_Temple_of_Small_Gods_IrkIc0LPnYib4l38.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_3__The_Alchemists__Guild_8g52lrw96fz50Nus.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_5__Guild_District_Headquarters_4gvuFU2r6onHPQaD.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_4__The_Drowned_Quarter_DnfOpYq4uiSZo6oe.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_6__Street_Riot_0W0LjGvP2xjXskd2.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Scene_7__Vault_Heist_FZ9CX4JJIlhSpo6t.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Side_Event_2__Nobby_s_Highly_Questionable_Black_Market_Tour_cK62f51wZBBPELHm.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Side_Event_4__The_Riot_Tax_Collector_RncMdDw3OWzNQflz.yml
+  - >-
+    The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Scene/The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t/Scene_Side_Event_6__Grand_Market_LBlCb7ZnSLK0m8k0.yml
+tables: []
+macros: []
+cards: []
+playlists: []
+folders:
+  - The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Folder_The_Case_of_the_Stolen_River_Heart_tQ667C3EC8Wp50OI.yml
+  - The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Folder_The_Case_of_the_Stolen_River_Heart_thBVxy2fWdt1tw4t.yml
+  - The_Case_of_the_Stolen_River_Heart_g4FJMjldXcaX0MF4/Folder_The_case_of_the_Stolen_River_Heart_XeJs0yrSgvseulSj.yml
+_id: g4FJMjldXcaX0MF4
+folder: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.1.9
+  createdTime: 1738840655640
+  modifiedTime: 1754664945531
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null
+_key: '!adventures!g4FJMjldXcaX0MF4'

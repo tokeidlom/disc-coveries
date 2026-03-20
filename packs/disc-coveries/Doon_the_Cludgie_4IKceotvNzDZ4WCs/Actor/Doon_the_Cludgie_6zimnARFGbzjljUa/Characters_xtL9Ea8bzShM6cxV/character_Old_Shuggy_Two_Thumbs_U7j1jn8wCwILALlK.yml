@@ -1,0 +1,292 @@
+folder: xtL9Ea8bzShM6cxV
+name: Old Shuggy Two Thumbs
+type: character
+_id: U7j1jn8wCwILALlK
+img: modules/disc-coveries/assets/doon_the_cludgie/old_shuggy_two_thumbs.png
+system:
+  pronouns: He / Him
+  luck: 4
+  organisation: Feegle Clan of the Chalk
+  background: >-
+    Pictsie (Feegle)
+
+    The clan’s “tinkerer” and proud “inventor,” who’s particularly fond of any
+    kind of discarded junk, “fascinatin’ bits o’ metal,” and wizardly scraps.
+    Old Shuggy is wiry and a bit hunched, with a pair of oversized thumbs that
+    give him his nickname. He’s always carrying a satchel bulging with bits and
+    bobs and has the intense, gleeful expression of someone about to tinker with
+    the unknown. His beard is often tangled with stray bits of metal or shreds
+    of fabric from his latest “creation,” and he wears a pair of small, homemade
+    goggles, which he adjusts dramatically before any “engineering feat.”
+  consequences: ''
+  notes: ''
+  description: ''
+  child: 0lyVC25fEndkYYxh
+prototypeToken:
+  name: Old Shuggy Two Thumbs
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: >-
+      modules/disc-coveries/assets/doon_the_cludgie/old_shuggy_two_thumbs_token.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: luck
+  bar2:
+    attribute: luck
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+items:
+  - folder: AfgtyubMZbVALb3A
+    name: Junkwright, Tinkerer, Gadget-Gatherer
+    type: niche
+    _id: Ja4gjeEmgTDM4Ni0
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.Xso7tGmtdiEm1MDL
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: He sees potential in every broken thing
+    type: niche
+    _id: ZiiQWtmgvcIe85PW
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: >-
+        Takes pride in cobbling together new (and occasionally functional)
+        creations.
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.VSoNOIvJYxD5MBQ4
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Shuggy has an insatiable curiosity and a penchant for invention
+    type: core
+    _id: CMMneMGd8EJmIEci
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: >-
+        “invention” is a strong word for the cobbled-together contraptions he
+        makes from found bits of metal, wood, and glass. Though some Feegles see
+        his inventions as overly complex (and occasionally dangerous), he’s
+        convinced they’re the future of Feegle warfare. He’s a bit slow to
+        action, always thinking of new ways his gadgets could help (or at least
+        look impressive).
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.lCSFvvvLlw1EwPSL
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Talks to his gadgets as if they’re alive
+    type: quirk
+    _id: hQPtuCPiKu5ksNmp
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.hjPySKQnhY244txg
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Has a habit of naming each new creation
+    type: quirk
+    _id: FmRtmRY2DTBQRMyr
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: (like the “Groanin’ Gear Stick” or the “Wonder Whacker”).
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.mSfdjXfuOZXp4YU3
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Keeps a tiny scrap collection always hidden on him
+    type: quirk
+    _id: 58N00GXnJ2KL8Nmv
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.NjJaraJRtIfK5TxK
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+  - folder: AfgtyubMZbVALb3A
+    name: Often distracted by “interestin’ bits o’ trash.”
+    type: quirk
+    _id: 6VWJSQiKRI0qMsZh
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    sort: 0
+    ownership:
+      default: 0
+      lWznGPhWzCQDw01w: 3
+    flags: {}
+    _stats:
+      compendiumSource: Item.U8JpiMM9lS0kBWGC
+      duplicateSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 0.4.1
+      createdTime: null
+      modifiedTime: null
+      lastModifiedBy: null
+      exportSource: null
+effects: []
+sort: 0
+ownership:
+  default: 0
+  lWznGPhWzCQDw01w: 3
+flags: {}
+_stats:
+  compendiumSource: Actor.U7j1jn8wCwILALlK
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.4.1
+  createdTime: 1754664541660
+  modifiedTime: 1754664594893
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null

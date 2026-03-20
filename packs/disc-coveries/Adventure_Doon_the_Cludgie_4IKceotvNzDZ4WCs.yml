@@ -1,0 +1,106 @@
+name: Doon the Cludgie
+img: modules/disc-coveries/assets/doon_the_cludgie/banner.png
+caption: A ‘Discworld, Adventures in Ankh-Morpork’ adventure by Chris Franklin
+sort: 0
+description: >-
+  <p><strong>Adventure Overview:</strong></p><p><span
+  style="font-family:'Aptos',sans-serif">The adventure begins at the magical
+  refuse heap near the Unseen University, where Tiffany Aching has just paid a
+  visit to Eskarina Smith. As she leaves, Tiffany realizes she’s lost her prized
+  silver horse pendant, a key component of her shambles. Panicked and
+  determined, she enlists the help of a gang of Feegles—little blue, fight-happy
+  Pictsies with a penchant for mischief and treasure—to retrieve the pendant.
+  This is no ordinary search, though; the Feegles must brave the university's
+  pipes, sewers, and a series of weird, wonderful, and downright dangerous
+  obstacles to recover Tiffany's precious pendant.</span></p><p><strong>Key
+  Adventure Elements:</strong></p><ul style="margin-top:0cm"><li
+  class="MsoNormal" style="text-align:justify;mso-list:l0 level1
+  lfo1;tab-stops:list 36.0pt"><p><strong>Location:</strong> University refuse
+  dump, sewer tunnels under the University, and various hidden chambers of
+  discarded wizard items.</p></li><li><p><span
+  style="font-family:'Aptos',sans-serif"><strong>Time Setting:</strong> The era
+  of <em>The Shepherd’s Crown</em>, with Tiffany Aching recently visiting
+  Eskarina Smith.</span></p></li></ul>
+actors:
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Awf_lly_Big_Jessie_adP6N1ScZW4kkywP.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Bonnie__Mumbles__McQuiffle_q099OsCMbhl2Bjew.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Mad_Billy_Bampot_nu2IQoi4RG9i7oP8.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Old_Shuggy_Two_Thumbs_U7j1jn8wCwILALlK.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Rhona_the_Rhymer_wh1xHV1AXzRtRNfh.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Scaggy_MacTavish_h78WRPHFi5gjZxAk.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Characters_xtL9Ea8bzShM6cxV/character_Wee_Davy_the_Shipbotherer_JtIRprKzbMRY0JhP.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Batch_No__72_1LOTlJc5brKDa1eF.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Best_Before_Date_y18CN83uyoLnfeVL.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_If_Symptoms_Persist_2E6vTYPiCm6rYN2U.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Keep_Away_From_Fire_MvFLjdLlwQGh2Kkh.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Lemon_Scented_45ij4jjulLQAGcd0.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Ribbed_For_Her_Pleasure_Ge5REja0uI2Qnm0B.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Seek_Medical_Advice_HM0dRbx96uHEuFkJ.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Tear_Along_Dotted_Line_uRACRwKXA3ODhqnS.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/NPC_56HZmODDNW4jKKYo/NPC_Warranty_Void_Y5I3nDBWMIiDQFNq.yml
+combats: []
+items:
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Item/Doon_the_Cludgie_8Xzj3iUVcGk2odGs/party_Feegle_Clan_of_the_Chalk_0lyVC25fEndkYYxh.yml
+journal:
+  - Doon_the_Cludgie_4IKceotvNzDZ4WCs/JournalEntry_Doon_the_Cludgie_E8rUogDsfrk0km4D.yml
+scenes:
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_1__The_Magical_Refuse_Heap_vQkuDUdRtDoIrptb.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_2__Round_the_S_Bend_uCpjfsjVZlbEmOCq.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_3__The_Educated_Rodents_AKK1eV3N5L33BhJ6.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_4__Glorp_the_Grand_G5NX7jycIO5LvbV4.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_5__Coprolite__The_Blind_Troll_mHE5NsNTRFniHYeq.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_6__The_Sewage_Crossing_Quxo1TsFOeTHYCBp.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_7__The_Privy_Treasure_zgCSTtLX4OSYByOu.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_8__The_Grand_Flush_72c4xBM4RWEbqy0L.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Scene/Doon_the_Cludgie_ZhoQfIWVsWAqAM9h/Scene_Scene_9__Return_to_the_Surface__Dumped_Back_at_the_Start_hW3WgeVn7ru8owvF.yml
+tables: []
+macros: []
+cards: []
+playlists: []
+folders:
+  - Doon_the_Cludgie_4IKceotvNzDZ4WCs/Folder_Doon_the_Cludgie_ZhoQfIWVsWAqAM9h.yml
+  - Doon_the_Cludgie_4IKceotvNzDZ4WCs/Folder_Doon_the_Cludgie_6zimnARFGbzjljUa.yml
+  - >-
+    Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Folder_Characters_xtL9Ea8bzShM6cxV.yml
+  - Doon_the_Cludgie_4IKceotvNzDZ4WCs/Actor/Doon_the_Cludgie_6zimnARFGbzjljUa/Folder_NPC_56HZmODDNW4jKKYo.yml
+  - Doon_the_Cludgie_4IKceotvNzDZ4WCs/Folder_Doon_the_Cludgie_8Xzj3iUVcGk2odGs.yml
+_id: 4IKceotvNzDZ4WCs
+folder: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 0.1.9
+  createdTime: 1735895254596
+  modifiedTime: 1754664662288
+  lastModifiedBy: lWznGPhWzCQDw01w
+  exportSource: null
+_key: '!adventures!4IKceotvNzDZ4WCs'
