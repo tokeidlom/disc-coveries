@@ -1,0 +1,2 @@
+await game.settings.set('disc-coveries', 'artworkConsent', '');
+ui.notifications.info('Disc-coveries | Artwork consent reset. Reload the world to see the dialog again.');

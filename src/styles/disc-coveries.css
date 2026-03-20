@@ -1,0 +1,122 @@
+.art-consent-dialog .window-content {
+  padding: 0;
+}
+
+.dcart-body {
+  padding: 1.2rem 1.4rem 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.dcart-intro p {
+  margin: 0 0 0.5rem;
+  line-height: 1.5;
+}
+
+.dcart-note {
+  font-size: 0.82em;
+  color: var(--color-text-dark-secondary, #888);
+}
+
+.dcart-note i {
+  margin-right: 0.3em;
+}
+
+.dcart-options {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.art-consent-dialog .dcart-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.35rem;
+  padding: 1rem 0.75rem;
+  border-radius: 6px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  font-family: inherit;
+  line-height: normal;
+  height: auto;
+  min-height: unset;
+  transition: background 0.15s, border-color 0.15s, transform 0.1s;
+  background: var(--color-bg-option, #f0ece3);
+  color: var(--color-text-dark-primary, #191813);
+}
+
+.art-consent-dialog .dcart-btn:hover {
+  transform: translateY(-2px);
+}
+
+.art-consent-dialog .dcart-btn i {
+  font-size: 1.6rem;
+  margin-bottom: 0.1rem;
+}
+
+.art-consent-dialog .dcart-btn-title {
+  font-weight: 600;
+  font-size: 0.95em;
+  text-align: center;
+}
+
+.art-consent-dialog .dcart-btn-sub {
+  font-size: 0.78em;
+  color: var(--color-text-dark-secondary, #666);
+  text-align: center;
+  line-height: 1.3;
+  white-space: normal;
+}
+
+.art-consent-dialog .dcart-btn--decline {
+  border-color: var(--color-border-dark-tertiary, #bbb);
+}
+
+.art-consent-dialog .dcart-btn--decline:hover {
+  border-color: #888;
+  background: #e8e4db;
+}
+
+.art-consent-dialog .dcart-btn--accept {
+  border-color: var(--color-border-highlight, #7b68ee);
+}
+
+.art-consent-dialog .dcart-btn--accept i {
+  color: var(--color-border-highlight, #7b68ee);
+}
+
+.art-consent-dialog .dcart-btn--accept:hover {
+  background: #ece9ff;
+  border-color: #5a4fcf;
+}
+
+.dcart-progress {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.dcart-bar-track {
+  height: 14px;
+  border-radius: 7px;
+  background: var(--color-bg-option, #ddd);
+  overflow: hidden;
+}
+
+.dcart-bar-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: 7px;
+  background: var(--color-border-highlight, #7b68ee);
+  transition: width 0.3s ease;
+}
+
+.dcart-status {
+  font-size: 0.84em;
+  color: var(--color-text-dark-secondary, #666);
+  margin: 0;
+  text-align: center;
+}
