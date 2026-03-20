@@ -11,7 +11,7 @@ for (const pack of packs) {
   console.log('Packing ' + pack);
   await compilePack(
     `./packs/${pack}`,
-    `./src/assets/packs/${pack}`,
+    `./src/packs/${pack}`,
     {yaml, recursive: folders}
   );
 }

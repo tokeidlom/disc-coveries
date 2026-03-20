@@ -7,12 +7,12 @@ const yaml = true;
 const expandAdventures = true;
 const folders = true;
 
-const packs = await fs.readdir('./src/assets/packs');
+const packs = await fs.readdir('./src/packs');
 for (const pack of packs) {
   if (pack.startsWith('.')) continue;
   console.log('Unpacking ' + pack);
   await extractPack(
-    `./src/assets/packs/${pack}`,
+    `./src/packs/${pack}`,
     `./packs/${pack}`,
     {
       yaml,
