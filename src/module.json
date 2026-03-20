@@ -1,7 +1,7 @@
 {
   "id": "disc-coveries",
   "title": "Disc-coveries",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "14"
@@ -25,7 +25,7 @@
   ],
   "url": "https://github.com/tokeidlom/disc-coveries",
   "manifest": "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/src/module.json",
-  "download": "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/package/disc-coveries-v2.0.0.zip",
+  "download": "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/package/disc-coveries-v2.0.1.zip",
   "esmodules": [
     "scripts/disc-coveries.js"
   ],
