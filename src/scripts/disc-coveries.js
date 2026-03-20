@@ -99,6 +99,25 @@ class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
     if (el) el.style.width = `${pct}%`;
   }
 
+  get _FilePicker() {
+    return foundry.applications.apps.FilePicker.implementation;
+  }
+
+  async _ensureDirectory(folder) {
+    const parts = folder.split('/');
+    let current = '';
+    for (const part of parts) {
+      current = current ? `${current}/${part}` : part;
+      try {
+        await this._FilePicker.createDirectory('data', current, { notify: false });
+      } catch (err) {
+        if (!err.message?.toLowerCase().includes('already')) {
+          console.warn(`${MODULE_ID} | Could not create directory "${current}":`, err);
+        }
+      }
+    }
+  }
+
   async _downloadAssets() {
     const MANIFEST_URL =
       'https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/art-manifest.json';
@@ -110,6 +129,11 @@ class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
     const manifest = await manifestResp.json();
     const files    = manifest.files ?? [];
     const total    = files.length;
+
+    const folders = [...new Set(files.map(f => f.dest.substring(0, f.dest.lastIndexOf('/'))))];
+    for (const folder of folders) {
+      await this._ensureDirectory(folder);
+    }
 
     for (let i = 0; i < total; i++) {
       const { url, dest } = files[i];
@@ -130,7 +154,7 @@ class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
       }
 
       const file = new File([blob], filename, { type: blob.type });
-      await FilePicker.upload('data', folder, file, {}, { notify: false });
+      await this._FilePicker.upload('data', folder, file, {}, { notify: false });
 
       this._setProgress(Math.round(((i + 1) / total) * 100));
     }
