@@ -18,7 +18,7 @@ background:
   alphaThreshold: 0
 foreground: null
 foregroundElevation: null
-thumb:
+thumb: null
 width: 940
 height: 401
 padding: 0

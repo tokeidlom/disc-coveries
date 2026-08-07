@@ -1,0 +1,224 @@
+folder: PFjFhZxecn0LrW8x
+name: Doctor Cornelius Bellworthy
+type: character
+_id: GMB34qqGCe1Ye7jx
+img: modules/disc-coveries/assets/overdue/Doctor%20Cornelius%20Bellworthy.png
+system:
+  pronouns: He / Him
+  luck: 4
+  organisation: Unseen University Faculty (Chair of Inadvisable Studies)
+  child: nKApnwlM9CbVX4YX
+  background: >-
+    A reputation in search of a body of work. Cornelius volunteered for this
+    errand loudly and in front of the Archchancellor, on the assumption it would
+    be brief, easy, and highly visible. He intends to supervise closely from a
+    safe distance.
+  consequences: ''
+  notes: ''
+prototypeToken:
+  name: Doctor Cornelius Bellworthy
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: modules/disc-coveries/assets/overdue/Doctor%20Cornelius%20Bellworthy.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: null
+  bar2:
+    attribute: null
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+items:
+  - name: Taking credit for other people's discoveries
+    type: niche
+    _id: 5J85WWWRSa6Sl8MT
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786030187042
+      modifiedTime: 1786030191535
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Public speaking to cover for complete ignorance
+    type: niche
+    _id: ekIGG8M6obWYGONQ
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786030196424
+      modifiedTime: 1786030200441
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Reputation is the only currency that truly matters
+    type: core
+    _id: 0JAxwGIJJDHm6RDt
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786030205009
+      modifiedTime: 1786030206670
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Always claims to have already read the relevant book
+    type: quirk
+    _id: ZWwoERXtBHMLYfCi
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786030214446
+      modifiedTime: 1786030217196
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Faints convincingly under pressure, recovers suspiciously fast
+    type: quirk
+    _id: 0L91rXjym99DnD6y
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786030225721
+      modifiedTime: 1786030228052
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+effects: []
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 1.6.2
+  createdTime: 1786030074812
+  modifiedTime: 1786091992705
+  lastModifiedBy: SxcTMbeoYHfiUGJA
+ownership:
+  default: 0

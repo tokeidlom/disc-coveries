@@ -1,27 +1,63 @@
-const MODULE_ID = 'disc-coveries';
+const MODULE_ID   = 'disc-coveries';
 const SETTING_KEY = 'artworkConsent';
 
 Hooks.once('init', () => {
   game.settings.register(MODULE_ID, SETTING_KEY, {
-    name:  'Artwork Consent',
-    hint:  'Whether the GM has made an artwork choice for this module.',
+    name: 'Artwork consent state',
     scope: 'world',
-    config: false,
-    type:  String,
-    default: '',
+    type: Object,
+    default: {
+      version: '',
+      showAgain: true
+    },
+    config: false
+  });
+
+  game.settings.register(MODULE_ID, 'showImageDownload', {
+    name: 'Show the image download option on refresh',
+    hint: 'Check this if you want to see the image download option again.',
+    scope: 'world',
+    type: Boolean,
+    default: true,
+    config: true
   });
 });
 
+function normalizeConsent(value) {
+  if (typeof value === 'object' && value !== null) return value;
+
+  return {
+    version: '',
+    showAgain: true
+  };
+}
+
 Hooks.once('ready', () => {
   if (!game.user.isGM) return;
-  if (game.settings.get(MODULE_ID, SETTING_KEY)) return;
 
-  new ArtConsentDialog().render({ force: true });
+  const currentVersion = game.modules.get(MODULE_ID)?.version ?? '0.0.0';
+
+  const stored = normalizeConsent(game.settings.get(MODULE_ID, SETTING_KEY));
+  const showAgainToggle = game.settings.get(MODULE_ID, 'showImageDownload');
+
+  const shouldShow =
+    showAgainToggle ||
+    stored.showAgain ||
+    stored.version !== currentVersion;
+
+  if (shouldShow) {
+    new ArtConsentDialog(currentVersion).render({ force: true });
+  }
 });
 
 const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
 
 class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
+
+  constructor(currentVersion, options) {
+    super(options);
+    this.currentVersion = currentVersion;
+  }
 
   static DEFAULT_OPTIONS = {
     id:       'disc-coveries-art-consent',
@@ -45,8 +81,6 @@ class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
   };
 
   async close(options = {}) {
-    const choice = game.settings.get(MODULE_ID, SETTING_KEY);
-    if (!choice && !options.force) return;
     return super.close(options);
   }
 
@@ -67,12 +101,23 @@ class ArtConsentDialog extends HandlebarsApplicationMixin(ApplicationV2) {
   }
 
   async _onDecline() {
-    await game.settings.set(MODULE_ID, SETTING_KEY, 'declined');
+    await game.settings.set(MODULE_ID, SETTING_KEY, {
+      version: this.currentVersion,
+      showAgain: false
+    });
+
+    await game.settings.set(MODULE_ID, 'showImageDownload', false);
+
     await this.close({ force: true });
   }
 
   async _onAccept() {
-    await game.settings.set(MODULE_ID, SETTING_KEY, 'accepted');
+    await game.settings.set(MODULE_ID, SETTING_KEY, {
+      version: this.currentVersion,
+      showAgain: false
+    });
+
+    await game.settings.set(MODULE_ID, 'showImageDownload', false);
 
     // Swap to progress view
     this.element.querySelector('.dcart-options').style.display  = 'none';

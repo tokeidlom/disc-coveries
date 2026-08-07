@@ -1,0 +1,161 @@
+name: Overdue, Act 3, Fragment Effects
+_id: 5BbJmGfkJlLvHIwL
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - type: text
+    weight: 1
+    range:
+      - 1
+      - 1
+    _id: gqXlbI89zVsaAgat
+    name: >-
+      Character's shadow briefly reads its own book and refuses to answer
+      questions for a minute.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097851492
+      modifiedTime: 1786097860719
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+  - type: text
+    weight: 1
+    range:
+      - 2
+      - 2
+    _id: JLJNarWkIU9hjgoQ
+    name: Nearby dust rearranges itself into alphabetical order.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097869901
+      modifiedTime: 1786097876433
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+  - type: text
+    weight: 1
+    range:
+      - 3
+      - 3
+    _id: Kq8XQEjO3brqAkc4
+    name: Character's next sentence spoken aloud comes out in reverse word order.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097890174
+      modifiedTime: 1786097894282
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+  - type: text
+    weight: 1
+    range:
+      - 4
+      - 4
+    _id: g5qe1p6IM3kDDcb6
+    name: >-
+      A very small, polite footnote appears and follows the character for the
+      rest of the scene.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097905241
+      modifiedTime: 1786097909624
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+  - type: text
+    weight: 1
+    range:
+      - 5
+      - 5
+    _id: tk7bJhFRldgOT3gf
+    name: >-
+      Character briefly knows the ending of a book they haven't read — any book,
+      GM's choice, purely flavour.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097923586
+      modifiedTime: 1786097927388
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+  - type: text
+    weight: 1
+    range:
+      - 6
+      - 6
+    _id: QFc6okXED1hMUTtU
+    name: The fragment critiques the character's pronunciation.
+    img: icons/svg/d20-black.svg
+    description: ''
+    drawn: false
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097945064
+      modifiedTime: 1786097950580
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    documentUuid: null
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: RollTable.5BbJmGfkJlLvHIwL
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 1.6.2
+  createdTime: 1786097705655
+  modifiedTime: 1786097970066
+  lastModifiedBy: SxcTMbeoYHfiUGJA
+formula: 1d6
+ownership:
+  default: 0

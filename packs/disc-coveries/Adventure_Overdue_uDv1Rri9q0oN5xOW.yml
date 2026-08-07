@@ -1,0 +1,64 @@
+name: Overdue
+img: modules/disc-coveries/assets/overdue/act5.png
+caption: A 'Discworld, Adventures in Ankh-Morpork' adventure by CalinStar
+description: >-
+  <p><strong>A Discworld RPG One-Shot for Unseen University</strong></p><p
+  class="MsoNormal"><em>A 4 - 6 hour adventure of scholarship, cowardice, and
+  things that shouldn't be read after dark.</em></p><p>A book is late back to
+  the Library. The Librarian wants his book back. The Archchancellor wants the
+  embarrassing whiff of "unauthorised research" to go away quietly. And the
+  player characters, junior wizards, University hangers-on, or whoever else can
+  plausibly be sent to do something nobody senior wants to be blamed for, are
+  the ones sent to fetch it.</p>
+sort: 0
+actors:
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Actor/Overdue_PFjFhZxecn0LrW8x/character_Corporal_Tibbs_Yardley_5y24TtPFbpQ7Iksi.yml
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Actor/Overdue_PFjFhZxecn0LrW8x/character_Doctor_Cornelius_Bellworthy_GMB34qqGCe1Ye7jx.yml
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Actor/Overdue_PFjFhZxecn0LrW8x/character_Miss_Persimmony_Vane_HCHD98zs0uOBVBIw.yml
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Actor/Overdue_PFjFhZxecn0LrW8x/character_Mistress_Ivy_Whindle_8U0iApmasDrkFMzo.yml
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Actor/Overdue_PFjFhZxecn0LrW8x/character_Percival_Tanglefoot_B3mSwprICvIlB6ES.yml
+combats: []
+items:
+  - >-
+    Overdue_uDv1Rri9q0oN5xOW/Item/Overdue_vxBYqdwabDCcNNXi/party_Overdue_Book_Recovery_nKApnwlM9CbVX4YX.yml
+journal:
+  - Overdue_uDv1Rri9q0oN5xOW/JournalEntry_Overdue_weiulvQjHDgi6iaj.yml
+scenes:
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_1_0QcgNtagwKX0zTK0.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_2_Scene_A_wgNdWOzrdt7Vsp6V.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_2_Scene_B_o0l4wM3wDw0qaVjx.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_2_Scene_C_g0uSvoThsLrq1mXG.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_3_Scene_A_teJ6I1oODwHpC8HC.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_3_Scene_B_FXOLvlTOrCw8eqLy.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_3_Scene_C_mqgaTUMXwf0iNl68.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_4_Scene_A_ywYP0o6e20C8s4pC.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_4_Scene_B_4M1tq5gkfoP2Rebd.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Scene/Overdue_ShIa9qCBjpVjoxh5/Scene_Act_5_15XRqwjGtsntZYOq.yml
+tables:
+  - Overdue_uDv1Rri9q0oN5xOW/RollTable_Overdue__Act_3__Fragment_Effects_5BbJmGfkJlLvHIwL.yml
+macros: []
+cards: []
+playlists: []
+folders:
+  - Overdue_uDv1Rri9q0oN5xOW/Folder_Overdue_ShIa9qCBjpVjoxh5.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Folder_Overdue_PFjFhZxecn0LrW8x.yml
+  - Overdue_uDv1Rri9q0oN5xOW/Folder_Overdue_vxBYqdwabDCcNNXi.yml
+_id: uDv1Rri9q0oN5xOW
+folder: null
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 1.6.2
+  createdTime: 1786113882469
+  modifiedTime: 1786113923808
+  lastModifiedBy: SxcTMbeoYHfiUGJA
+_key: '!adventures!uDv1Rri9q0oN5xOW'

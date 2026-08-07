@@ -1,0 +1,224 @@
+folder: PFjFhZxecn0LrW8x
+name: Mistress Ivy Whindle
+type: character
+_id: 8U0iApmasDrkFMzo
+img: modules/disc-coveries/assets/overdue/Mistress%20Ivy%20Whindle.png
+system:
+  pronouns: ''
+  luck: 4
+  organisation: Independent (Witch, currently out of her usual patch)
+  child: nKApnwlM9CbVX4YX
+  background: >-
+    A practical woman in an impractical building. Ivy came to Ankh-Morpork to
+    sell a cure for a duchess's melancholy and got roped into this instead. She
+    has no patience for wizard theatrics, but she recognises a genuine problem
+    when she sees one, and this is clearly one of those.
+  consequences: ''
+  notes: ''
+prototypeToken:
+  name: Mistress Ivy Whindle
+  displayName: 0
+  actorLink: false
+  width: 1
+  height: 1
+  texture:
+    src: modules/disc-coveries/assets/overdue/Mistress%20Ivy%20Whindle.png
+    anchorX: 0.5
+    anchorY: 0.5
+    offsetX: 0
+    offsetY: 0
+    fit: contain
+    scaleX: 1
+    scaleY: 1
+    rotation: 0
+    tint: '#ffffff'
+    alphaThreshold: 0.75
+  lockRotation: false
+  rotation: 0
+  alpha: 1
+  disposition: -1
+  displayBars: 0
+  bar1:
+    attribute: null
+  bar2:
+    attribute: null
+  light:
+    negative: false
+    priority: 0
+    alpha: 0.5
+    angle: 360
+    bright: 0
+    color: null
+    coloration: 1
+    dim: 0
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+  sight:
+    enabled: false
+    range: 0
+    angle: 360
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    brightness: 0
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+  flags: {}
+  randomImg: false
+  appendNumber: false
+  prependAdjective: false
+items:
+  - name: Reading a room, or a book, faster than its author intended
+    type: niche
+    _id: FMlQSFxn21xU3agP
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786029854068
+      modifiedTime: 1786029856633
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: 'Headology: convincing people of things that happen to be true'
+    type: niche
+    _id: DDpFcjYpfosZB6dI
+    img: systems/discworld/assets/items/niches.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786029857625
+      modifiedTime: 1786029869592
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Everything wants to be tidy, given a firm enough hand
+    type: core
+    _id: D4wqBQExIMhWqCRK
+    img: systems/discworld/assets/items/core.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786029874884
+      modifiedTime: 1786029878641
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Refuses to use a spell where a sharp look will do
+    type: quirk
+    _id: 0zFspzQxfoldkwyc
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786029882902
+      modifiedTime: 1786029884969
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+  - name: Collects small useful objects 'just in case'
+    type: quirk
+    _id: dumqgigEUrBiMr2X
+    img: systems/discworld/assets/items/quirks.webp
+    system:
+      description: ''
+    effects: []
+    folder: null
+    sort: 0
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786029892439
+      modifiedTime: 1786029895633
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: 0
+effects: []
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 1.6.2
+  createdTime: 1786029807738
+  modifiedTime: 1786101287800
+  lastModifiedBy: SxcTMbeoYHfiUGJA
+ownership:
+  default: 0

@@ -1,0 +1,599 @@
+name: Overdue
+_id: weiulvQjHDgi6iaj
+pages:
+  - sort: 100000
+    name: Premise
+    type: text
+    _id: NlQnEy2BoMSnnIxN
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>A book is late back to the Library. This would normally be enough to
+        upset the Librarian, except that in addition:</p><ol
+        style="margin-top:0cm" type="1"><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p>The book in question is
+        <em>Certain Proceedings of a Cumulative Nature</em>, a grimoire so dense
+        with stored thaumic potential that the Librarian keeps it chained, and
+        warded.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>The borrower, one Dr. Nivor Sconce,
+        hasn't been seen in nine days, and his rooms are locked from the
+        inside.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>Small, localised bits of geography around
+        Ankh-Morpork have started appearing in the wrong order.</p></li></ol><p
+        class="MsoNormal">The Librarian wants his book back. The Archchancellor
+        wants the embarrassing whiff of "unauthorised research" to go away
+        quietly. And the player characters, junior wizards, University
+        hangers-on, or whoever else can plausibly be sent to do something nobody
+        senior wants to be blamed for, are the ones sent to fetch it.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786096935132
+      modifiedTime: 1786096954638
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 200000
+    name: The Truth (for the GM only)
+    type: text
+    _id: 22zivqRfsxouA7nG
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Sconce wasn't researching anything sanctioned. He borrowed
+        <em>Certain Proceedings</em> to finish reading a page he'd started
+        thirty years ago as a student, convinced the rest of the sentence
+        contained the secret to a spell that would finally get him tenure. The
+        book doesn't like being read out of order. It has started reordering
+        things nearby, his room, his corridor, and now creeping out into the
+        city, one relocated cobblestone and rearranged shopfront at a
+        time.</p><p class="MsoNormal">Sconce himself isn't dead. He's stuck
+        <em>mid-paragraph,</em> literally embedded partway through the book,
+        stuck out of time, entirely certain that everything is going according
+        to plan. Finding him is easy. Talking sense into him is the actual
+        puzzle. Getting the book closed on him without ripping him in half is
+        the actual climax.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786096971887
+      modifiedTime: 1786096987478
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 300000
+    name: Structure (4 - 6 hours)
+    type: text
+    _id: DhSxmZ721Rz4sf2K
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <table class="MsoNormalTable" border="0"
+        style="mso-cellspacing:1.5pt;mso-yfti-tbllook:1184"><thead><tr
+        style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="padding:.75pt
+        .75pt .75pt .75pt"><p class="MsoNormal"><strong>Act</strong></p></td><td
+        style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal"><strong>Content</strong></p></td><td
+        style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal"><strong>Time</strong></p></td></tr></thead><tbody><tr
+        style="mso-yfti-irow:1"><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">1</p></td><td style="padding:.75pt .75pt .75pt
+        .75pt"><p class="MsoNormal">Briefing &amp; first clues</p></td><td
+        style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal">30 - 45
+        min</p></td></tr><tr style="mso-yfti-irow:2"><td style="padding:.75pt
+        .75pt .75pt .75pt"><p class="MsoNormal">2</p></td><td
+        style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">Investigation across the University and
+        city</p></td><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">1.5 - 2 hr</p></td></tr><tr
+        style="mso-yfti-irow:3"><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">3</p></td><td style="padding:.75pt .75pt .75pt
+        .75pt"><p class="MsoNormal">The reordered wing / L-Space
+        incursion</p></td><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">1 - 1.5 hr</p></td></tr><tr
+        style="mso-yfti-irow:4"><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">4</p></td><td style="padding:.75pt .75pt .75pt
+        .75pt"><p class="MsoNormal">Confronting Sconce &amp; closing the
+        book</p></td><td style="padding:.75pt .75pt .75pt .75pt"><p
+        class="MsoNormal">1 - 1.5 hr</p></td></tr><tr
+        style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="padding:.75pt
+        .75pt .75pt .75pt"><p class="MsoNormal">5</p></td><td
+        style="padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal">Fallout
+        &amp; consequences</p></td><td style="padding:.75pt .75pt .75pt
+        .75pt"><p class="MsoNormal">15 - 30 min</p></td></tr></tbody></table><p
+        class="MsoNormal">Cut Act 2 shorter for a 4-hour game by trimming to two
+        investigation scenes instead of three. Stretch Act 3 for a 6-hour game
+        by adding an extra reordered location (see <strong>Optional
+        Scenes</strong> below).</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097020707
+      modifiedTime: 1786097039677
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 400000
+    name: 'Act 1: The Briefing'
+    type: text
+    _id: 1DJKWqBpWfannQfp
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The party is summoned, separately or together, to the Librarian, a
+        wizard is there to translate, unless a party member wants to play that
+        role, the wizard could be Rincewind at the GM discretion.</p><p
+        class="MsoNormal"><strong>Key information to deliver:</strong></p><ul
+        style="margin-top:0cm"><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>Dr. Sconce hasn't been seen in nine
+        days.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>His door is locked from the inside;
+        nobody wants to break it down without permission from someone who
+        outranks them, and nobody outranking them wants to be associated with
+        this.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>The Librarian is <em>quietly
+        furious,</em> it's rare for him to specifically ask for outside help,
+        which itself should worry the players.</p></li><li class="MsoNormal"
+        style="mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><p>Small oddities
+        have been reported: a corridor that now dead-ends where it used to turn,
+        the Bursar's office chair swapped with one from a room two floors up,
+        with the Bursar still in it.</p></li></ul><p
+        class="MsoNormal"><strong>GM Tip:</strong> Let the party bicker about
+        who's actually in charge of this errand. That squabbling <em>is</em> the
+        wizard experience.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097154314
+      modifiedTime: 1786097166159
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 500000
+    name: 'Act 2: Investigation'
+    type: text
+    _id: RnUWvDkTjktxUNaG
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Three scenes the party can tackle in any order. Each yields a piece
+        of the puzzle.</p><p class="MsoNormal"><strong>Scene A - Sconce's
+        Rooms</strong></p><p class="MsoNormal">The door is locked, but the room
+        isn't quite where it should be anymore, the door now looks out onto a
+        corridor that shouldn't exist on that side of the building. Breaking in
+        (by force, magic, or bribing a bursary clerk for the spare key nobody's
+        supposed to have) reveals:</p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="mso-list:l1 level1 lfo1;tab-stops:list
+        36.0pt"><p>Notes in Sconce’s hand on <em>Certain Proceedings</em>,
+        chapter titles growing steadily stranger and more
+        self-referential.</p></li><li class="MsoNormal" style="mso-list:l1
+        level1 lfo1;tab-stops:list 36.0pt"><p>A half-eaten meal, nine days stale
+        but somehow not rotten, time isn't behaving normally in
+        here.</p></li><li class="MsoNormal" style="mso-list:l1 level1
+        lfo1;tab-stops:list 36.0pt"><p>A <strong>trail</strong>: footprints that
+        lead to the far wall and simply stop, as if someone walked <em>into</em>
+        the bookshelf.</p></li></ul><p class="MsoNormal"><strong>Scene B — The
+        Librarian's Domain</strong></p><p class="MsoNormal">A trip into L-Space
+        itself (with all appropriate warnings and the Librarian's characteristic
+        patience for people who touch things). The party can:</p><ul
+        style="margin-top:0cm"><li class="MsoNormal" style="mso-list:l2 level1
+        lfo2;tab-stops:list 36.0pt"><p>Learn that <em>Certain Proceedings</em>
+        was checked out entirely properly, which is the most alarming
+        part.</p></li><li class="MsoNormal" style="mso-list:l2 level1
+        lfo2;tab-stops:list 36.0pt"><p>Discover the book's "shelf-shadow", a
+        faint impression showing it's still <em>linked</em> to its proper place,
+        meaning it can theoretically be recalled.</p></li><li class="MsoNormal"
+        style="mso-list:l2 level1 lfo2;tab-stops:list 36.0pt"><p>Get bitten,
+        mildly, if someone is rude about the overdue fine.</p></li></ul><p
+        class="MsoNormal"><strong>Scene C — Out in the City</strong></p><p
+        class="MsoNormal">Ankh-Morpork has noticed. A few options to mix comedy
+        with clues:</p><ul style="margin-top:0cm"><li class="MsoNormal"
+        style="mso-list:l0 level1 lfo3;tab-stops:list 36.0pt"><p>A pub that's
+        now two streets further from the river than it was last week, much to
+        the confusion (and profit, if they charge for the novelty) of its
+        landlord.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo3;tab-stops:list 36.0pt"><p>A Watch patrol investigating a house
+        whose front door now opens onto its own back garden.</p></li><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo3;tab-stops:list
+        36.0pt"><p>A street vendor selling "guaranteed fixed-position" pies,
+        capitalising on the chaos.</p></li></ul><p class="MsoNormal">Each city
+        vignette can include an NPC who mentions increasingly strange sightings
+        near the University, subtly herding the party back toward Act 3.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097174709
+      modifiedTime: 1786097385162
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 600000
+    name: 'Act 3: The Reordered Wing'
+    type: text
+    _id: i20gf3XlIJAVtTuw
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Following the trail (or the recalled "shelf-shadow") leads the party
+        into a stretch of University corridor that has been folded into
+        something closer to L-Space than architecture. Doors open onto the wrong
+        rooms. Staircases loop. A postbox appears halfway up a wall.</p><p
+        class="MsoNormal">This is a set-piece exploration scene, not a straight
+        combat. Suggested beats:</p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>A room that repeats</strong> - the party must
+        recognise a subtle changing detail each time they pass through to know
+        they're making progress, not looping.</p></li><li class="MsoNormal"
+        style="mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><p><strong>A
+        corridor of half-finished sentences</strong> - fragments of <em>Certain
+        Proceedings</em> drift past as motes of light or muttering voices;
+        reading one aloud has a minor magical effect (a good spot for a random
+        table - see below).</p></li><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p><strong>A guardian
+        obstacle</strong>, optional: something the book has "misfiled" nearby -
+        a gargoyle now catalogued as furniture, an overly officious index card
+        golem insisting on being checked out properly before anyone can
+        pass.</p></li></ul><p></p><p>@UUID[RollTable.5BbJmGfkJlLvHIwL]{Overdue,
+        Act 3, Fragment Effects}</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786097413039
+      modifiedTime: 1786097965868
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 700000
+    name: 'Act 4: Sconce, and the Book'
+    type: text
+    _id: 093aGsZMJGNjrssB
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<p>At the heart of the reordered wing, the party finds Dr. Sconce - mid-sentence, mid-page, partially merged into the book, entirely convinced he's about to have his breakthrough. He is not in danger by his own reckoning and will be mildly annoyed at the interruption.</p><p class=\"MsoNormal\"><strong>The puzzle:</strong> the book cannot simply be slammed shut with Sconce still part-embedded in it - <span style=\"mso-spacerun:yes\">\_</span>that's how you get a Sconce-shaped bookmark. He needs to be talked, tricked, or (if someone's clever) <em>narratively</em> extracted - finishing the sentence he's stuck on, giving him a satisfying enough \"ending\" that the book considers the chapter closed and releases him.</p><p class=\"MsoNormal\"><strong>Ways this can go, depending on party approach:</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Talk him down</strong>: Convince him the \"answer\" he's looking for isn't in the next sentence - a Persuasion/Empathy-style challenge, complicated by his very wizardly stubbornness.</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Finish the sentence for him</strong>: If the party pieced together fragments from Act 3, they may have enough of the missing text to complete it themselves, tricking the book into thinking the paragraph is done.</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Force the book shut anyway</strong>: Possible, but risks a comic-magical mishap - Sconce partially transposed with something else nearby (a gargoyle, a teapot, the Bursar) for the rest of the session, to be undone \"off-screen\" by the Faculty later. Great if your table wants a farcical ending rather than a clean one.</p></li></ul><p><span style=\"font-size:12.0pt;line-height:115%;font-family:'Calibri', sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:'Times New Roman';mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Once resolved, the reordered wing folds itself back into normal geometry over the next several minutes - corridors sliding back, the pub presumably relieved to lose its river view.</span></p>"
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098010205
+      modifiedTime: 1786098438286
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 800000
+    name: 'Act 5: Fallout'
+    type: text
+    _id: nqH9c3oedRpyzaHG
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Suggested wrap-up beats:</p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>The Librarian re-shelves <em>Certain Proceedings</em> with a
+        new, more severe warding, and makes a point of remembering who caused
+        the extra paperwork.</p></li><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p>The Archchancellor is satisfied so
+        long as nobody mentions this to the Patrician or the
+        newspapers.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p>Sconce is quietly reassigned to a subject
+        with fewer syllables and no dangerous grimoires - possibly as
+        comic-relief NPC fodder for a future session.</p></li><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>If the party botched the extraction, resolve the lingering
+        weirdness (Bursar with a slightly gargoyle-ish demeanour, etc.) as a
+        running joke or hook for next time.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098448605
+      modifiedTime: 1786098494100
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 900000
+    name: Key NPCs
+    type: text
+    _id: SGAAnzHLEPmLs86K
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>The Librarian</strong> - Wants his book back, unimpressed by
+        everyone, communicates mostly through gesture and the occasional "Ook."
+        Genuinely dangerous if crossed, genuinely helpful if respected.
+        Oook!</p><p class="MsoNormal"><strong>Dr. Nivor Sconce</strong> - Minor
+        faculty member, thirty years chasing tenure, absolutely certain the next
+        sentence changes everything. Not malicious, just monomaniacally
+        stubborn. Plays well as pitiable-but-exasperating.</p><p
+        class="MsoNormal"><strong>The Bursar</strong> (or an original stand-in,
+        if you'd rather not use a named canon character directly) - Overworked,
+        easily flustered, first to notice the furniture swap and last to be
+        believed about it.</p><p class="MsoNormal"><strong>A Rival Faculty
+        Member</strong> - Invented to taste; someone who'd rather the party fail
+        quietly so they can take credit for "solving" it themselves. Good source
+        of Act 1 friction and a possible Act 5 complication.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098629738
+      modifiedTime: 1786098651004
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 1000000
+    name: Locations
+    type: text
+    _id: xkLI9dn0Dbnlb7DS
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p><strong>Locations</strong></p><ul style="margin-top:0cm"><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>The Library / L-Space approach</strong> - as strange
+        and vast as your table enjoys; a good place to remind everyone of the
+        setting's scale.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><strong>Sconce's rooms</strong> -
+        cluttered, academic, faintly wrong.</p></li><li class="MsoNormal"
+        style="mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><p><strong>The
+        Reordered Wing</strong> - the session's centrepiece set-piece; encourage
+        improvisation here.</p></li><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p><strong>A city street or
+        two</strong> - for comic relief and pacing breathers between the weirder
+        scenes.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098684102
+      modifiedTime: 1786098688873
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 1100000
+    name: Optional Scenes (for a longer session)
+    type: text
+    _id: l8AKKOE0aUeJMNCs
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <ul style="margin-top:0cm"><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p><strong>The Faculty
+        Meeting</strong>, played for laughs, where the party must extract
+        permission or information from squabbling professors before they're
+        allowed to act.</p></li><li class="MsoNormal" style="mso-list:l0 level1
+        lfo1;tab-stops:list 36.0pt"><p><strong>A second reordered
+        location</strong> in the city itself, a shop, a bridge, a small square
+        that's begun exhibiting the same fold-in effect, raising the stakes
+        before the party reaches the University's own wing.</p></li><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p><strong>A rival attempt</strong> - another faculty member
+        trying to "handle it" themselves first, badly, giving the party a mess
+        to clean up on arrival.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098700691
+      modifiedTime: 1786098755691
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+  - sort: 1200000
+    name: GM Notes
+    type: text
+    _id: ug9EdXN2s6Wp3Ixn
+    system: {}
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <ul style="margin-top:0cm"><li class="MsoNormal" style="mso-list:l0
+        level1 lfo1;tab-stops:list 36.0pt"><p>This adventure leans on comic
+        escalation, not danger. Keep threats present but rarely lethal; the
+        horror-adjacent elements (Sconce's fate, L-Space's vastness) work best
+        played as unsettling rather than grim.</p></li><li class="MsoNormal"
+        style="mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><p>The random
+        fragment table in Act 3 is a good spot to let players improvise freely,
+        reward creative interpretations of the effects.</p></li><li
+        class="MsoNormal" style="mso-list:l0 level1 lfo1;tab-stops:list
+        36.0pt"><p>Sconce's resolution scene is designed to reward whatever the
+        party actually did during investigation, if they skipped Scene A or C,
+        adjust how much "finish the sentence" material is available, and lean
+        more on the Persuasion route instead.</p></li></ul>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags: {}
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: discworld
+      systemVersion: 1.6.2
+      createdTime: 1786098795348
+      modifiedTime: 1786098884601
+      lastModifiedBy: SxcTMbeoYHfiUGJA
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+flags: {}
+_stats:
+  compendiumSource: JournalEntry.weiulvQjHDgi6iaj
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: discworld
+  systemVersion: 1.6.2
+  createdTime: 1786025046215
+  modifiedTime: 1786025046215
+  lastModifiedBy: SxcTMbeoYHfiUGJA
+ownership:
+  default: 0

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "files": [
     {
       "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/doon_the_cludgie/awflly_big_jessie.png",
@@ -198,36 +198,12 @@
       "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Guild District Headquarters.webp"
     },
     {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Halwick%20Groth.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Halwick Groth.webp"
-    },
-    {
       "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Ilyana%20Duskwright.webp",
       "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Ilyana Duskwright.webp"
     },
     {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Lady%20Viona%20Greve.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Lady Viona Greve.webp"
-    },
-    {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Madame%20Mavria.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Madame Mavria.webp"
-    },
-    {
       "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/magical%20explosion%20scene.webp",
       "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/magical explosion scene.webp"
-    },
-    {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Malik%20Scarn.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Malik Scarn.webp"
-    },
-    {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Professor%20Alvus%20Blink.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Professor Alvus Blink.webp"
-    },
-    {
-      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/Scribe%20Elric%20Tallow.webp",
-      "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/Scribe Elric Tallow.webp"
     },
     {
       "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/street%20riot%20scene.webp",
@@ -260,6 +236,66 @@
     {
       "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/the_case_of_the_stolen_river_heart/vault%20heist%20scene.webp",
       "dest": "modules/disc-coveries/assets/the_case_of_the_stolen_river_heart/vault heist scene.webp"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/Corporal%20Tibbs%20Yardley.png",
+      "dest": "modules/disc-coveries/assets/overdue/Corporal Tibbs Yardley.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/Doctor%20Cornelius%20Bellworthy.png",
+      "dest": "modules/disc-coveries/assets/overdue/Doctor Cornelius Bellworthy.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/Miss%20Persimmony%20Vane.png",
+      "dest": "modules/disc-coveries/assets/overdue/Miss Persimmony Vane.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/Mistress%20Ivy%20Whindle.png",
+      "dest": "modules/disc-coveries/assets/overdue/Mistress Ivy Whindle.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/Percival%20Tanglefoot.png",
+      "dest": "modules/disc-coveries/assets/overdue/Percival Tanglefoot.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act1.png",
+      "dest": "modules/disc-coveries/assets/overdue/act1.png"
+    } ,
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act2_sceneA.png",
+      "dest": "modules/disc-coveries/assets/overdue/act2_sceneA.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act2_sceneB.png",
+      "dest": "modules/disc-coveries/assets/overdue/act2_sceneB.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act2_sceneC.png",
+      "dest": "modules/disc-coveries/assets/overdue/act2_sceneC.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act3_sceneA.png",
+      "dest": "modules/disc-coveries/assets/overdue/act3_sceneA.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act3_sceneB.png",
+      "dest": "modules/disc-coveries/assets/overdue/act3_sceneB.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act3_sceneC.png",
+      "dest": "modules/disc-coveries/assets/overdue/act3_sceneC.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act4_sceneA.png",
+      "dest": "modules/disc-coveries/assets/overdue/act4_sceneA.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act4_sceneB.png",
+      "dest": "modules/disc-coveries/assets/overdue/act4_sceneB.png"
+    },
+    {
+      "url":  "https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/assets/overdue/act5.png",
+      "dest": "modules/disc-coveries/assets/overdue/act5.png"
     }
   ]
 }
