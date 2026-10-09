@@ -6,7 +6,7 @@ Please find within fan created adventures for the Modiphius' "Discworld: Adventu
 To install this module into FoundryVTT please either use this link:
 https://raw.githubusercontent.com/tokeidlom/disc-coveries/main/src/module.json
 
-Or, search for the module in the foundry system (TBD), link to the official page here (TBD).
+Or, search for the module in the foundry system, link to the official page here https://foundryvtt.com/packages/disc-coveries.
 
 Open your Discworld system, and enable the module from "Settings -> Manage Modules"
 
